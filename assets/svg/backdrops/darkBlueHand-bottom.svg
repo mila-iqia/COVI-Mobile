@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="118px" viewBox="0 0 320 118" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Group 9 + Stroke 3 Mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="320" height="118"></rect>
+        <path d="M0,3.41060513e-13 C0,235.780313 0,370.34269 0,403.687133 C0,453.703798 58,525.66234 160,525.66234 C247.037619,525.66234 320,443.769758 320,443.769758 C320,443.769758 320,295.846505 320,3.41060513e-13 L0,3.41060513e-13 Z" id="path-3"></path>
+    </defs>
+    <g id="Maquettes-graphiques" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="8F---EN-Copy" transform="translate(0.000000, -257.000000)">
+            <g id="Group-9-+-Stroke-3-Mask" transform="translate(0.000000, 257.000000)">
+                <g id="Group">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Rectangle"></g>
+                    <g id="Group-4" mask="url(#mask-2)">
+                        <g transform="translate(0.000000, -408.000000)">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <use id="Mask" stroke="none" fill="#2D3953" fill-rule="evenodd" transform="translate(160.000000, 262.831170) scale(-1, 1) translate(-160.000000, -262.831170) " xlink:href="#path-3"></use>
+                        </g>
+                    </g>
+                    <path d="M88.2950276,67.5 C97.7098405,67.5 107.417951,70.5257267 114.5,75.657821 C88.8174885,95.6992187 58.1739338,106.771484 45.2950276,110.500024 C45.2950276,86.7517385 64.546766,67.5 88.2950276,67.5 Z" id="Stroke-3-Copy" fill="#F7F0EA" fill-rule="nonzero" mask="url(#mask-2)" transform="translate(79.897514, 89.000012) scale(-1, 1) translate(-79.897514, -89.000012) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>857885841359-5mltgb167vf4cbs7qml5cu8f6s735oia.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.857885841359-5mltgb167vf4cbs7qml5cu8f6s735oia</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBD7o1MbH9xXQvu1x_QjBJGwYAq41bM2ZY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>857885841359</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.covi.app</string>
+	<key>PROJECT_ID</key>
+	<string>covi-app-274917</string>
+	<key>STORAGE_BUCKET</key>
+	<string>covi-app-274917.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:857885841359:ios:e03c119af7d5f0bc8ae4ba</string>
+	<key>DATABASE_URL</key>
+	<string>https://covi-app-274917.firebaseio.com</string>
+</dict>
+</plist>

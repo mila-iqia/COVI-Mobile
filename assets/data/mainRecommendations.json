@@ -1,0 +1,2021 @@
+{
+    "BB": [
+        {
+            "id": "BB_C001",
+            "title": {
+                "en": "Please call 9-1-1",
+                "fr": "Appellez le 9-1-1"
+            },
+            "subtitle": {
+                "en": "Or go directly to your nearest emergency department",
+                "fr": "Ou rendez-vous à l'urgence la plus proche"
+            }
+        },
+        {
+            "id": "BB_C002",
+            "title": {
+                "en": "Please consult your family doctor.",
+                "fr": "Consultez votre médecin de famille"
+            },
+            "subtitle": {
+                "en": "If you are unable to reach your regular health care provider, call Telehealth",
+                "fr": "Si vous n'êtes pas en mesure de contacter vos professionnels de la santé, appelez Télésanté."
+            }
+        },
+        {
+            "id": "BB_C003",
+            "title": {
+                "en": "Get tested for Covid-19",
+                "fr": "Faites vous tester pour la Covid-19"
+            },
+            "subtitle": {
+                "en": "at your nearest assessment centre.",
+                "fr": "à votre centre de test le plus proche."
+            }
+        }
+    ],
+    "BB0": [
+        {
+            "id": "BB0_001",
+            "type": "title",
+            "content": {
+                "en": "When you're inside in a store or public space you should wear a mask.",
+                "fr": "Quand vous êtes à l'intérieur d'un magasin ou d'un espace publique vous devriez porter un masque."
+            }
+        },
+        {
+            "id": "BB0_002",
+            "type": "title",
+            "content": {
+                "en": "You should maintain 2-metres distance from others.",
+                "fr": "Maintenez une distance de 2 mètres avec les autres."
+            }
+        },
+        {
+            "id": "BB0_003",
+            "type": "title",
+            "content": {
+                "en": "Even when you’re outdoors you should try to avoid large crowds of people.",
+                "fr": "Même à l'extérieur, évitez les grands rassemblements."
+            }
+        },
+        {
+            "id": "BB0_004",
+            "type": "title",
+            "content": {
+                "en": "Always wash your hands when you arrive back at home.",
+                "fr": "Lavez vos mains à votre arrivée à la maison."
+            }
+        },
+        {
+            "id": "BB0_005",
+            "type": "subtitle",
+            "content": {
+                "en": "You’re encouraged to enjoy the outdoors while maintaining 2-meters of distance from others.",
+                "fr": "Allez dehors."
+            }
+        },
+        {
+            "id": "BB0_006",
+            "type": "subtitle",
+            "content": {
+                "en": "Take time for yourself to relax at home.",
+                "fr": "Accordez-vous des moments de détente."
+            }
+        },
+        {
+            "id": "BB0_007",
+            "type": "subtitle",
+            "content": {
+                "en": "Staying active can help you feel better both mentally and physically.",
+                "fr": "Restez actif pour vous sentir bien."
+            }
+        }
+    ],
+    "BBR": [
+        {
+            "id": "BBR_001",
+            "riskLevel": 1,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should work from home if possible.",
+                "fr": "Travaillez de la maison si possible."
+            },
+            "subtitle": {
+                "en": "If you can work remotely, it's safer than going to work.",
+                "fr": "Travaillez à distance si vous le pouvez. C’est plus sûr que d’aller au travail."
+            }
+        },
+        {
+            "id": "BBR_002",
+            "riskLevel": 1,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should work from home if possible.",
+                "fr": "Travaillez de la maison si possible."
+            },
+            "subtitle": {
+                "en": "When working with coworkers, you should wear a mask.",
+                "fr": "Portez un masque lorsque vous travaillez avec vos collègues."
+            }
+        },
+        {
+            "id": "BBR_003",
+            "riskLevel": 1,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should work from home if possible.",
+                "fr": "Travaillez de la maison si possible."
+            },
+            "subtitle": {
+                "en": "You should maintain 2-metres distance from others.",
+                "fr": "Maintenez une distance de 2 mètres avec les autres."
+            }
+        },
+        {
+            "id": "BBR_004",
+            "riskLevel": 1,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should work from home if possible.",
+                "fr": "Travaillez de la maison si possible."
+            },
+            "subtitle": {
+                "en": "Wash your hands after touching objects and surfaces used by others.",
+                "fr": "Lavez vos mains après avoir touché des objets et des surfaces auxquels d’autres personnes ont accès."
+            }
+        },
+        {
+            "id": "BBR_005",
+            "riskLevel": 1,
+            "vulnerable": 0,
+            "title": {
+                "en": "Seeing your friends and family outdoors.",
+                "fr": "Voyez vos amis et votre famille à l’extérieur."
+            },
+            "subtitle": {
+                "en": "Limit your outdoor gatherings to 10 people from 3 households.",
+                "fr": "Limitez vos rassemblements extérieurs à 10 personnes de 3 ménages."
+            }
+        },
+        {
+            "id": "BBR_006",
+            "riskLevel": 1,
+            "vulnerable": 0,
+            "title": {
+                "en": "Seeing your friends and family outdoors.",
+                "fr": "Voyez vos amis et votre famille à l’extérieur."
+            },
+            "subtitle": {
+                "en": "You should maintain 2-metres distance from others.",
+                "fr": "Maintenez une distance de 2 mètres avec les autres."
+            }
+        },
+        {
+            "id": "BBR_007",
+            "riskLevel": 1,
+            "vulnerable": 0,
+            "title": {
+                "en": "Seeing your friends and family outdoors.",
+                "fr": "Voyez vos amis et votre famille à l’extérieur."
+            },
+            "subtitle": {
+                "en": "It’s recommended you wear a mask.",
+                "fr": "Le port du masque est recommandé."
+            }
+        },
+        {
+            "id": "BBR_008",
+            "riskLevel": 1,
+            "vulnerable": 0,
+            "title": {
+                "en": "Seeing your friends and family outdoors.",
+                "fr": "Voyez vos amis et votre famille à l’extérieur."
+            },
+            "subtitle": {
+                "en": "Wash your hands when you arrive to and leave the gathering.",
+                "fr": "Lavez vos mains lorsque vous arrivez au point de rencontre et le quittez."
+            }
+        },
+        {
+            "id": "BBR_009",
+            "riskLevel": 1,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should avoid using public transit during rush hour.",
+                "fr": "Évitez d’utiliser les transports en commun pendant les heures de pointe."
+            },
+            "subtitle": {
+                "en": "It’s recommended you use transit only when necessary.",
+                "fr": "Utilisez les transports en commun uniquement lorsque nécessaire."
+            }
+        },
+        {
+            "id": "BBR_010",
+            "riskLevel": 1,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should avoid using public transit during rush hour.",
+                "fr": "Évitez d’utiliser les transports en commun pendant les heures de pointe."
+            },
+            "subtitle": {
+                "en": "You should maintain 2-metres distance from others, even in crowded places.",
+                "fr": "Maintenez une distance de 2 mètres avec les autres même dans les endroits bondés."
+            }
+        },
+        {
+            "id": "BBR_011",
+            "riskLevel": 1,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should avoid using public transit during rush hour.",
+                "fr": "Évitez d’utiliser les transports en commun pendant les heures de pointe."
+            },
+            "subtitle": {
+                "en": "You should wear a mask at all times.",
+                "fr": "Portez un masque en tout temps."
+            }
+        },
+        {
+            "id": "BBR_012",
+            "riskLevel": 1,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should avoid using public transit during rush hour.",
+                "fr": "Évitez d’utiliser les transports en commun pendant les heures de pointe."
+            },
+            "subtitle": {
+                "en": "Use hand sanitizer after you touch railings and other surfaces.",
+                "fr": "Utilisez du désinfectant pour les mains après avoir touché les rampes et les autres surfaces."
+            }
+        },
+        {
+            "id": "BBR_013",
+            "riskLevel": 1,
+            "vulnerable": 0,
+            "title": {
+                "en": "How you can protect those most vulnerable.",
+                "fr": "Comment protéger les personnes vulnérables."
+            },
+            "subtitle": {
+                "en": "People over 60 or with certain medical conditions are at increased risk of severe complications from Covid-19.",
+                "fr": "Les personnes qui ont plus de 60 ans ou qui ont certaines conditions de santé sont exposées à un risque accru de développer des complications graves en lien avec la COVID-19."
+            }
+        },
+        {
+            "id": "BBR_014",
+            "riskLevel": 1,
+            "vulnerable": 0,
+            "title": {
+                "en": "How you can protect those most vulnerable.",
+                "fr": "Comment protéger les personnes vulnérables."
+            },
+            "subtitle": {
+                "en": "It’s recommended that you do not see vulnerable people right now.",
+                "fr": "Évitez de voir des personnes vulnérables en ce moment."
+            }
+        },
+        {
+            "id": "BBR_015",
+            "riskLevel": 1,
+            "vulnerable": 0,
+            "title": {
+                "en": "How you can protect those most vulnerable.",
+                "fr": "Comment protéger les personnes vulnérables."
+            },
+            "subtitle": {
+                "en": "If you must meet with someone vulnerable, it’s recommended you meet them outdoors, you wear a mask, and that you maintain 2-metres of distance.",
+                "fr": "Si vous devez rencontrer une personne vulnérable, il est recommandé de le faire à l’extérieur, de porter un masque et de maintenir une distance de 2 mètres avec elle."
+            }
+        },
+        {
+            "id": "BBR_016",
+            "riskLevel": 1,
+            "vulnerable": 0,
+            "title": {
+                "en": "How you can protect those most vulnerable.",
+                "fr": "Comment protéger les personnes vulnérables."
+            },
+            "subtitle": {
+                "en": "Phone or online communication with vulnerable people is recommended.",
+                "fr": "L’utilisation du téléphone ou des moyens de communication en ligne est recommandée pour communiquer avec les personnes vulnérables."
+            }
+        },
+        {
+            "id": "BBR_017",
+            "riskLevel": 1,
+            "vulnerable": 0,
+            "title": {
+                "en": "Getting your groceries and essentials safely.",
+                "fr": "Faire l’épicerie et acheter les articles essentiels de façon sécuritaire."
+            },
+            "subtitle": {
+                "en": "It’s recommended you wear a mask inside all stores and in public spaces.",
+                "fr": "Le port du masque est recommandé dans tous les magasins et les espaces publics."
+            }
+        },
+        {
+            "id": "BBR_018",
+            "riskLevel": 1,
+            "vulnerable": 0,
+            "title": {
+                "en": "Getting your groceries and essentials safely.",
+                "fr": "Faire l’épicerie et acheter les articles essentiels de façon sécuritaire."
+            },
+            "subtitle": {
+                "en": "It’s also recommended you don't bring family members with you, unless necessary.",
+                "fr": "Évitez d’y aller avec votre famille, à moins que ce soit nécessaire."
+            }
+        },
+        {
+            "id": "BBR_019",
+            "riskLevel": 1,
+            "vulnerable": 0,
+            "title": {
+                "en": "Getting your groceries and essentials safely.",
+                "fr": "Faire l’épicerie et acheter les articles essentiels de façon sécuritaire."
+            },
+            "subtitle": {
+                "en": "You should maintain 2-metres distance from others.",
+                "fr": "Maintenez une distance de 2 mètres avec les autres."
+            }
+        },
+        {
+            "id": "BBR_020",
+            "riskLevel": 1,
+            "vulnerable": 0,
+            "title": {
+                "en": "Getting your groceries and essentials safely.",
+                "fr": "Faire l’épicerie et acheter les articles essentiels de façon sécuritaire."
+            },
+            "subtitle": {
+                "en": "Wash your hands when you return home.",
+                "fr": "Lavez vos mains à votre retour à la maison."
+            }
+        },
+        {
+            "id": "BBR_021",
+            "riskLevel": 1,
+            "vulnerable": 0,
+            "title": {
+                "en": "Getting your groceries and essentials safely.",
+                "fr": "Faire l’épicerie et acheter les articles essentiels de façon sécuritaire."
+            },
+            "subtitle": {
+                "en": "Limit your number of trips.",
+                "fr": "Limitez le nombre de courses."
+            }
+        },
+        {
+            "id": "BBR_022",
+            "riskLevel": 1,
+            "vulnerable": 0,
+            "title": {
+                "en": "How you can enjoy the outdoors safely.",
+                "fr": "Comment profiter des espaces extérieurs de façon sécuritaire."
+            },
+            "subtitle": {
+                "en": "You should maintain 2-metres distance from others.",
+                "fr": "Maintenez une distance de 2 mètres avec les autres."
+            }
+        },
+        {
+            "id": "BBR_023",
+            "riskLevel": 1,
+            "vulnerable": 0,
+            "title": {
+                "en": "How you can enjoy the outdoors safely.",
+                "fr": "Comment profiter des espaces extérieurs de façon sécuritaire."
+            },
+            "subtitle": {
+                "en": "By wearing a mask, you decrease the risk of transmission.",
+                "fr": "Le port du masque diminue le risque de transmission."
+            }
+        },
+        {
+            "id": "BBR_024",
+            "riskLevel": 1,
+            "vulnerable": 0,
+            "title": {
+                "en": "How you can enjoy the outdoors safely.",
+                "fr": "Comment profiter des espaces extérieurs de façon sécuritaire."
+            },
+            "subtitle": {
+                "en": "Always wash your hands when you return home.",
+                "fr": "Lavez toujours vos mains à votre retour à la maison."
+            }
+        },
+        {
+            "id": "BBR_025",
+            "riskLevel": 1,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should get your retail shopping delivered or by curbside pick up.",
+                "fr": "Vous pouvez utiliser le service de ramassage de commande ou faire livrer vos articles à la maison."
+            },
+            "subtitle": {
+                "en": "For home delivery and curbside pick up, have your items left near or at your door. Don't ask anyone to come inside your home. And try to keep your interactions with others brief.",
+                "fr": "Pour la livraison ou le ramassage de commande, demandez à ce que vos articles soient déposés à votre porte ou près de celle-ci. N’invitez personne à l’intérieur de votre maison et ayez des interactions aussi courtes que possible avec les autres."
+            }
+        },
+        {
+            "id": "BBR_026",
+            "riskLevel": 1,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should get your retail shopping delivered or by curbside pick up.",
+                "fr": "Vous pouvez utiliser le service de ramassage de commande ou faire livrer vos articles à la maison."
+            },
+            "subtitle": {
+                "en": "If you must enter a store, it’s recommended you wear a mask inside. Go alone without family, unless necessary.",
+                "fr": "Si vous devez entrer dans un magasin, portez un masque et allez-y seul, c’est-à-dire sans votre famille, à moins que ce soit nécessaire."
+            }
+        },
+        {
+            "id": "BBR_027",
+            "riskLevel": 1,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should get your retail shopping delivered or by curbside pick up.",
+                "fr": "Vous pouvez utiliser le service de ramassage de commande ou faire livrer vos articles à la maison."
+            },
+            "subtitle": {
+                "en": "You should maintain 2-metres distance from others.",
+                "fr": "Maintenez une distance de 2 mètres avec les autres."
+            }
+        },
+        {
+            "id": "BBR_028",
+            "riskLevel": 1,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should get your retail shopping delivered or by curbside pick up.",
+                "fr": "Vous pouvez utiliser le service de ramassage de commande ou faire livrer vos articles à la maison."
+            },
+            "subtitle": {
+                "en": "Try not to touch or try on items you're not purchasing.",
+                "fr": "Évitez de toucher ou d’essayer les articles que vous n’achetez pas."
+            }
+        },
+        {
+            "id": "BBR_029",
+            "riskLevel": 1,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should get your retail shopping delivered or by curbside pick up.",
+                "fr": "Vous pouvez utiliser le service de ramassage de commande ou faire livrer vos articles à la maison."
+            },
+            "subtitle": {
+                "en": "Wash your hands when you return home.",
+                "fr": "Lavez vos mains à votre retour à la maison."
+            }
+        },
+        {
+            "id": "BBR_030",
+            "riskLevel": 1,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should get your retail shopping delivered or by curbside pick up.",
+                "fr": "Vous pouvez utiliser le service de ramassage de commande ou faire livrer vos articles à la maison."
+            },
+            "subtitle": {
+                "en": "Limit your number of trips.",
+                "fr": "Limitez le nombre de courses."
+            }
+        },
+        {
+            "id": "BBR_031",
+            "riskLevel": 2,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should work from home.",
+                "fr": "Travaillez de la maison."
+            },
+            "subtitle": {
+                "en": "If you can work remotely, it's safer than going to work.",
+                "fr": "Travaillez à distance si vous le pouvez. C’est plus sûr que d’aller au travail."
+            }
+        },
+        {
+            "id": "BBR_032",
+            "riskLevel": 2,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should work from home.",
+                "fr": "Travaillez de la maison."
+            },
+            "subtitle": {
+                "en": "If you’re working with coworkers, you should wear a mask and face shield.",
+                "fr": "Portez un masque et une visière lorsque vous travaillez avec vos collègues."
+            }
+        },
+        {
+            "id": "BBR_033",
+            "riskLevel": 2,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should work from home.",
+                "fr": "Travaillez de la maison."
+            },
+            "subtitle": {
+                "en": "You should maintain 2-metres distance from others.",
+                "fr": "Maintenez une distance de 2 mètres avec les autres."
+            }
+        },
+        {
+            "id": "BBR_034",
+            "riskLevel": 2,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should work from home.",
+                "fr": "Travaillez de la maison."
+            },
+            "subtitle": {
+                "en": "Wash your hands after touching objects and surfaces used by others.",
+                "fr": "Lavez vos mains après avoir touché des objets et des surfaces auxquels d’autres personnes ont accès."
+            }
+        },
+        {
+            "id": "BBR_035",
+            "riskLevel": 2,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should avoid seeing your friends and family.",
+                "fr": "Évitez de voir vos amis et votre famille."
+            },
+            "subtitle": {
+                "en": "Phone or online communication from your home is recommended.",
+                "fr": "L’utilisation du téléphone ou des moyens de communication en ligne à partir de la maison est recommandée."
+            }
+        },
+        {
+            "id": "BBR_036",
+            "riskLevel": 2,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should avoid seeing your friends and family.",
+                "fr": "Évitez de voir vos amis et votre famille."
+            },
+            "subtitle": {
+                "en": "If you must meet with your friends or family in person, meet outdoors, wear a mask, and maintain 2-metres of distance from others.",
+                "fr": "Si vous devez voir des amis ou des membres de votre famille en personne, rencontrez-les à l’extérieur, portez un masque et maintenez une distance de 2 mètres avec eux."
+            }
+        },
+        {
+            "id": "BBR_037",
+            "riskLevel": 2,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should avoid seeing your friends and family.",
+                "fr": "Évitez de voir vos amis et votre famille."
+            },
+            "subtitle": {
+                "en": "Keep your meetings as brief as possible.",
+                "fr": "Ayez des interactions aussi courtes que possible."
+            }
+        },
+        {
+            "id": "BBR_038",
+            "riskLevel": 2,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should avoid seeing your friends and family.",
+                "fr": "Évitez de voir vos amis et votre famille."
+            },
+            "subtitle": {
+                "en": "Wash your hands when you arrive to and leave the gathering.",
+                "fr": "Lavez vos mains lorsque vous arrivez au point de rencontre et le quittez."
+            }
+        },
+        {
+            "id": "BBR_039",
+            "riskLevel": 2,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should avoid using public transit.",
+                "fr": "Évitez d’utiliser les transports en commun."
+            },
+            "subtitle": {
+                "en": "If you must use transit, do not travel during rush hour.",
+                "fr": "Si vous devez utiliser les transports en commun, ne le faites pas durant les heures de pointe."
+            }
+        },
+        {
+            "id": "BBR_040",
+            "riskLevel": 2,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should avoid using public transit.",
+                "fr": "Évitez d’utiliser les transports en commun."
+            },
+            "subtitle": {
+                "en": "You should maintain 2-metres distance from others, even in crowded places.",
+                "fr": "Maintenez une distance de 2 mètres avec les autres même dans les endroits bondés."
+            }
+        },
+        {
+            "id": "BBR_041",
+            "riskLevel": 2,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should avoid using public transit.",
+                "fr": "Évitez d’utiliser les transports en commun."
+            },
+            "subtitle": {
+                "en": "You should wear a mask and face shield at all times.",
+                "fr": "Portez un masque et une visière en tout temps."
+            }
+        },
+        {
+            "id": "BBR_042",
+            "riskLevel": 2,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should avoid using public transit.",
+                "fr": "Évitez d’utiliser les transports en commun."
+            },
+            "subtitle": {
+                "en": "Use hand sanitizer after you touch railings and other surfaces.",
+                "fr": "Utilisez du désinfectant pour les mains après avoir touché les rampes et les autres surfaces."
+            }
+        },
+        {
+            "id": "BBR_043",
+            "riskLevel": 2,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should not put vulnerable people at risk.",
+                "fr": "Évitez de mettre les personnes vulnérables à risque."
+            },
+            "subtitle": {
+                "en": "People over 60 or with certain medical conditions are at increased risk of severe complications from Covid-19.",
+                "fr": "Les personnes qui ont plus de 60 ans ou qui ont certaines conditions de santé sont exposées à un risque accru de développer des complications graves en lien avec la COVID-19."
+            }
+        },
+        {
+            "id": "BBR_044",
+            "riskLevel": 2,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should not put vulnerable people at risk.",
+                "fr": "Évitez de mettre les personnes vulnérables à risque."
+            },
+            "subtitle": {
+                "en": "If you absolutely must meet with someone vulnerable, it’s strongly recommended you meet them outdoors, you wear a mask and face shield, and that you maintain 2-metres of distance.",
+                "fr": "Si vous devez absolument rencontrer une personne vulnérable, il est fortement recommandé de le faire à l’extérieur, de porter un masque et une visière et de maintenir une distance de 2 mètres avec elle."
+            }
+        },
+        {
+            "id": "BBR_045",
+            "riskLevel": 2,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should not put vulnerable people at risk.",
+                "fr": "Évitez de mettre les personnes vulnérables à risque."
+            },
+            "subtitle": {
+                "en": "Keep your meetings as brief as possible.",
+                "fr": "Ayez des interactions aussi courtes que possible."
+            }
+        },
+        {
+            "id": "BBR_046",
+            "riskLevel": 2,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should not put vulnerable people at risk.",
+                "fr": "Évitez de mettre les personnes vulnérables à risque."
+            },
+            "subtitle": {
+                "en": "Phone or online communication with vulnerable people is recommended as the safest alternative.",
+                "fr": "L’utilisation du téléphone ou des moyens de communication en ligne est la façon la plus sûre de communiquer avec les personnes vulnérables."
+            }
+        },
+        {
+            "id": "BBR_047",
+            "riskLevel": 2,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should not put vulnerable people at risk.",
+                "fr": "Évitez de mettre les personnes vulnérables à risque."
+            },
+            "subtitle": {
+                "en": "If you're dropping something off, leave it at their door. You should not go inside.",
+                "fr": "Si vous apportez quelque chose à une personne vulnérable, laissez la chose en question à sa porte. N’allez pas à l’intérieur."
+            }
+        },
+        {
+            "id": "BBR_048",
+            "riskLevel": 2,
+            "vulnerable": 0,
+            "title": {
+                "en": "Get home delivery or curbside pickup for your groceries and essentials.",
+                "fr": "Utilisez le service de ramassage de commande ou faites livrer à la maison votre épicerie et vos articles essentiels."
+            },
+            "subtitle": {
+                "en": "When your items are delivered, have them left at your door. Don't ask anyone to come inside.",
+                "fr": "Pour la livraison, demandez à ce que vos articles soient déposés à votre porte. N’invitez personne à l’intérieur."
+            }
+        },
+        {
+            "id": "BBR_049",
+            "riskLevel": 2,
+            "vulnerable": 0,
+            "title": {
+                "en": "Get home delivery or curbside pickup for your groceries and essentials.",
+                "fr": "Utilisez le service de ramassage de commande ou faites livrer à la maison votre épicerie et vos articles essentiels."
+            },
+            "subtitle": {
+                "en": "For curbside pickup, keep your interactions with others brief. Maintain 2-metres of distance from others.",
+                "fr": "Pour le ramassage de commande, ayez des interactions aussi courtes que possible avec les autres et maintenez une distance de 2 mètres avec eux."
+            }
+        },
+        {
+            "id": "BBR_050",
+            "riskLevel": 2,
+            "vulnerable": 0,
+            "title": {
+                "en": "Get home delivery or curbside pickup for your groceries and essentials.",
+                "fr": "Utilisez le service de ramassage de commande ou faites livrer à la maison votre épicerie et vos articles essentiels."
+            },
+            "subtitle": {
+                "en": "If you must go inside a store, it's strongly recommended you wear a mask.",
+                "fr": "Si vous devez entrer dans un magasin, le port du masque est fortement recommandé."
+            }
+        },
+        {
+            "id": "BBR_051",
+            "riskLevel": 2,
+            "vulnerable": 0,
+            "title": {
+                "en": "How you can enjoy the outdoors safely, but with caution.",
+                "fr": "Comment profiter des espaces extérieurs de façon sécuritaire et prudente."
+            },
+            "subtitle": {
+                "en": "You should maintain 2-metres distance from others.",
+                "fr": "Maintenez une distance de 2 mètres avec les autres."
+            }
+        },
+        {
+            "id": "BBR_052",
+            "riskLevel": 2,
+            "vulnerable": 0,
+            "title": {
+                "en": "How you can enjoy the outdoors safely, but with caution.",
+                "fr": "Comment profiter des espaces extérieurs de façon sécuritaire et prudente."
+            },
+            "subtitle": {
+                "en": "By wearing a mask, you decrease the risk of transmission.",
+                "fr": "Le port du masque diminue le risque de transmission."
+            }
+        },
+        {
+            "id": "BBR_053",
+            "riskLevel": 2,
+            "vulnerable": 0,
+            "title": {
+                "en": "How you can enjoy the outdoors safely, but with caution.",
+                "fr": "Comment profiter des espaces extérieurs de façon sécuritaire et prudente."
+            },
+            "subtitle": {
+                "en": "Always wash your hands when you return home.",
+                "fr": "Lavez toujours vos mains à votre retour à la maison."
+            }
+        },
+        {
+            "id": "BBR_054",
+            "riskLevel": 2,
+            "vulnerable": 0,
+            "title": {
+                "en": "Get your retail shopping delivered or  by curbside pick up.",
+                "fr": "Utilisez le service de ramassage de commande ou faites livrer vos articles à la maison."
+            },
+            "subtitle": {
+                "en": "When your items are delivered, have them left at your door. Don't ask anyone to come inside.",
+                "fr": "Pour la livraison, demandez à ce que vos articles soient déposés à votre porte. N’invitez personne à l’intérieur."
+            }
+        },
+        {
+            "id": "BBR_055",
+            "riskLevel": 2,
+            "vulnerable": 0,
+            "title": {
+                "en": "Get your retail shopping delivered or  by curbside pick up.",
+                "fr": "Utilisez le service de ramassage de commande ou faites livrer vos articles à la maison."
+            },
+            "subtitle": {
+                "en": "For curbside pickup, keep your interactions with others brief and maintain 2-metres distance from others.",
+                "fr": "Pour le ramassage de commande, ayez des interactions aussi courtes que possible avec les autres et maintenez une distance de 2 mètres avec eux."
+            }
+        },
+        {
+            "id": "BBR_056",
+            "riskLevel": 2,
+            "vulnerable": 0,
+            "title": {
+                "en": "Get your retail shopping delivered or  by curbside pick up.",
+                "fr": "Utilisez le service de ramassage de commande ou faites livrer vos articles à la maison."
+            },
+            "subtitle": {
+                "en": "If you must go inside a store, it's strongly recommended you wear a mask.",
+                "fr": "Si vous devez entrer dans un magasin, le port du masque est fortement recommandé."
+            }
+        },
+        {
+            "id": "BBR_057",
+            "riskLevel": 3,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should stay home from work.",
+                "fr": "N’allez pas au travail. Travaillez de la maison."
+            },
+            "subtitle": {
+                "en": "If you can work remotely, it's safer than going to work.",
+                "fr": "Travaillez à distance si vous le pouvez. C’est plus sûr que d’aller au travail."
+            }
+        },
+        {
+            "id": "BBR_058",
+            "riskLevel": 3,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should stay home from work.",
+                "fr": "N’allez pas au travail. Travaillez de la maison."
+            },
+            "subtitle": {
+                "en": "If you must work with coworkers, it’s necessary that you wear a mask and face shield.",
+                "fr": "Si vous devez travailler avec des collègues, vous devez porter un masque et une visière."
+            }
+        },
+        {
+            "id": "BBR_059",
+            "riskLevel": 3,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should stay home from work.",
+                "fr": "N’allez pas au travail. Travaillez de la maison."
+            },
+            "subtitle": {
+                "en": "You should maintain 2-metres distance from others.",
+                "fr": "Maintenez une distance de 2 mètres avec les autres."
+            }
+        },
+        {
+            "id": "BBR_060",
+            "riskLevel": 3,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should stay home from work.",
+                "fr": "N’allez pas au travail. Travaillez de la maison."
+            },
+            "subtitle": {
+                "en": "Wash your hands after touching objects and surfaces used by others.",
+                "fr": "Lavez vos mains après avoir touché des objets et des surfaces auxquels d’autres personnes ont accès."
+            }
+        },
+        {
+            "id": "BBR_061",
+            "riskLevel": 3,
+            "vulnerable": 0,
+            "title": {
+                "en": "Avoid seeing your friends and family outdoors and in person.",
+                "fr": "Ne voyez aucun ami ni membre de votre famille, ni à l’extérieur ni en personne."
+            },
+            "subtitle": {
+                "en": "Phone or online communication from your home is strongly recommended.",
+                "fr": "L’utilisation du téléphone ou des moyens de communication en ligne à partir de la maison est fortement recommandée."
+            }
+        },
+        {
+            "id": "BBR_062",
+            "riskLevel": 3,
+            "vulnerable": 0,
+            "title": {
+                "en": "Avoid seeing your friends and family outdoors and in person.",
+                "fr": "Ne voyez aucun ami ni membre de votre famille, ni à l’extérieur ni en personne."
+            },
+            "subtitle": {
+                "en": "If you need someone to drop something off, have the items left at your door.",
+                "fr": "Si quelqu’un doit venir vous porter quelque chose, demandez-lui de le déposer à votre porte."
+            }
+        },
+        {
+            "id": "BBR_063",
+            "riskLevel": 3,
+            "vulnerable": 0,
+            "title": {
+                "en": "Avoid seeing your friends and family outdoors and in person.",
+                "fr": "Ne voyez aucun ami ni membre de votre famille, ni à l’extérieur ni en personne."
+            },
+            "subtitle": {
+                "en": "Do not invite others into your home.",
+                "fr": "N’invitez personne à l’intérieur."
+            }
+        },
+        {
+            "id": "BBR_064",
+            "riskLevel": 3,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should not use public transit.",
+                "fr": "N’utilisez pas les transports en commun."
+            },
+            "subtitle": {
+                "en": "Your use of public transit would be unsafe right now.",
+                "fr": "Il est risqué d’utiliser les transports en commun en ce moment."
+            }
+        },
+        {
+            "id": "BBR_065",
+            "riskLevel": 3,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should not put vulnerable people at risk.",
+                "fr": "Évitez de mettre les personnes vulnérables à risque."
+            },
+            "subtitle": {
+                "en": "People over 60 or with certain medical conditions are at increased risk of severe complications from Covid-19.",
+                "fr": "Les personnes qui ont plus de 60 ans ou qui ont certaines conditions de santé sont exposées à un risque accru de développer des complications graves en lien avec la COVID-19."
+            }
+        },
+        {
+            "id": "BBR_066",
+            "riskLevel": 3,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should not put vulnerable people at risk.",
+                "fr": "Évitez de mettre les personnes vulnérables à risque."
+            },
+            "subtitle": {
+                "en": "At this time, it’s strongly recommended you do not visit vulnerable people.",
+                "fr": "En ce moment, il est fortement recommandé de ne voir aucune personne vulnérable."
+            }
+        },
+        {
+            "id": "BBR_067",
+            "riskLevel": 3,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should not put vulnerable people at risk.",
+                "fr": "Évitez de mettre les personnes vulnérables à risque."
+            },
+            "subtitle": {
+                "en": "Phone or online communication with vulnerable people is recommended as the safest alternative.",
+                "fr": "L’utilisation du téléphone ou des moyens de communication en ligne est la façon la plus sûre de communiquer avec les personnes vulnérables."
+            }
+        },
+        {
+            "id": "BBR_068",
+            "riskLevel": 3,
+            "vulnerable": 0,
+            "title": {
+                "en": "Have all your groceries and essentials delivered.",
+                "fr": "Faites livrer votre épicerie et vos articles essentiels."
+            },
+            "subtitle": {
+                "en": "When your items are delivered, have them left at your door. Don't ask anyone to come inside.",
+                "fr": "Demandez à ce que vos articles soient déposés à votre porte. N’invitez personne à l’intérieur."
+            }
+        },
+        {
+            "id": "BBR_069",
+            "riskLevel": 3,
+            "vulnerable": 0,
+            "title": {
+                "en": "Have all your groceries and essentials delivered.",
+                "fr": "Faites livrer votre épicerie et vos articles essentiels."
+            },
+            "subtitle": {
+                "en": "If you must go inside a store because you have no other option, it's strongly recommended you wear a mask and face shield.",
+                "fr": "Si vous devez entrer dans un magasin parce que vous n’avez pas d’autre option, le port du masque et de la visière est fortement recommandé."
+            }
+        },
+        {
+            "id": "BBR_070",
+            "riskLevel": 3,
+            "vulnerable": 0,
+            "title": {
+                "en": "Have all your groceries and essentials delivered.",
+                "fr": "Faites livrer votre épicerie et vos articles essentiels."
+            },
+            "subtitle": {
+                "en": "You should maintain 2-metres distance from others.",
+                "fr": "Maintenez une distance de 2 mètres avec les autres."
+            }
+        },
+        {
+            "id": "BBR_071",
+            "riskLevel": 3,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should stay home instead of going outdoors.",
+                "fr": "Restez à la maison plutôt que d’aller à l’extérieur."
+            },
+            "subtitle": {
+                "en": "If you must go outdoors, it’s strongly recommended you wear a mask or face shield.",
+                "fr": "Si vous devez aller à l’extérieur, le port du masque ou de la visière est fortement recommandé."
+            }
+        },
+        {
+            "id": "BBR_072",
+            "riskLevel": 3,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should stay home instead of going outdoors.",
+                "fr": "Restez à la maison plutôt que d’aller à l’extérieur."
+            },
+            "subtitle": {
+                "en": "You should maintain 2-metres distance from others.",
+                "fr": "Maintenez une distance de 2 mètres avec les autres."
+            }
+        },
+        {
+            "id": "BBR_073",
+            "riskLevel": 3,
+            "vulnerable": 0,
+            "title": {
+                "en": "You should stay home instead of going outdoors.",
+                "fr": "Restez à la maison plutôt que d’aller à l’extérieur."
+            },
+            "subtitle": {
+                "en": "Always wash your hands when you return home.",
+                "fr": "Lavez toujours vos mains à votre retour à la maison."
+            }
+        },
+        {
+            "id": "BBR_074",
+            "riskLevel": 3,
+            "vulnerable": 0,
+            "title": {
+                "en": "Get your retail shopping delivered or  by curbside pick up.",
+                "fr": "Utilisez le service de ramassage de commande ou faites livrer vos articles à la maison."
+            },
+            "subtitle": {
+                "en": "When your items are delivered, have them left at your door. Don't ask anyone to come inside.",
+                "fr": "Pour la livraison, demandez à ce que vos articles soient déposés à votre porte. N’invitez personne à l’intérieur."
+            }
+        },
+        {
+            "id": "BBR_075",
+            "riskLevel": 3,
+            "vulnerable": 0,
+            "title": {
+                "en": "Get your retail shopping delivered or  by curbside pick up.",
+                "fr": "Utilisez le service de ramassage de commande ou faites livrer vos articles à la maison."
+            },
+            "subtitle": {
+                "en": "If you must go inside a store because you have no other option, it's strongly recommended you wear a mask and face shield.",
+                "fr": "Si vous devez entrer dans un magasin parce que vous n’avez pas d’autre option, le port du masque et de la visière est fortement recommandé."
+            }
+        },
+        {
+            "id": "BBR_076",
+            "riskLevel": 3,
+            "vulnerable": 0,
+            "title": {
+                "en": "Get your retail shopping delivered or  by curbside pick up.",
+                "fr": "Utilisez le service de ramassage de commande ou faites livrer vos articles à la maison."
+            },
+            "subtitle": {
+                "en": "You should maintain 2-metres distance from others.",
+                "fr": "Maintenez une distance de 2 mètres avec les autres."
+            }
+        },
+        {
+            "id": "BBR_077",
+            "riskLevel": 1,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should work from home if possible.",
+                "fr": "Travaillez de la maison si possible."
+            },
+            "subtitle": {
+                "en": "If you can work remotely, it's safer than going to work.",
+                "fr": "Travaillez à distance si vous le pouvez. C’est plus sûr que d’aller au travail."
+            }
+        },
+        {
+            "id": "BBR_078",
+            "riskLevel": 1,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should work from home if possible.",
+                "fr": "Travaillez de la maison si possible."
+            },
+            "subtitle": {
+                "en": "When working with coworkers, you should wear a mask.",
+                "fr": "Portez un masque lorsque vous travaillez avec vos collègues."
+            }
+        },
+        {
+            "id": "BBR_079",
+            "riskLevel": 1,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should work from home if possible.",
+                "fr": "Travaillez de la maison si possible."
+            },
+            "subtitle": {
+                "en": "You should maintain 2-metres distance from others.",
+                "fr": "Maintenez une distance de 2 mètres avec les autres."
+            }
+        },
+        {
+            "id": "BBR_080",
+            "riskLevel": 1,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should work from home if possible.",
+                "fr": "Travaillez de la maison si possible."
+            },
+            "subtitle": {
+                "en": "Wash your hands after touching objects and surfaces used by others.",
+                "fr": "Lavez vos mains après avoir touché des objets et des surfaces auxquels d’autres personnes ont accès."
+            }
+        },
+        {
+            "id": "BBR_081",
+            "riskLevel": 1,
+            "vulnerable": 1,
+            "title": {
+                "en": "How to see your friends and family outdoors.",
+                "fr": "Comment voir vos amis et votre famille à l’extérieur."
+            },
+            "subtitle": {
+                "en": "Limit your outdoor gatherings to 10 people from 3 households.",
+                "fr": "Limitez vos rassemblements extérieurs à 10 personnes de 3 ménages."
+            }
+        },
+        {
+            "id": "BBR_082",
+            "riskLevel": 1,
+            "vulnerable": 1,
+            "title": {
+                "en": "How to see your friends and family outdoors.",
+                "fr": "Comment voir vos amis et votre famille à l’extérieur."
+            },
+            "subtitle": {
+                "en": "It’s recommended you wear a mask, and ask others to wear one too.",
+                "fr": "Le port du masque est recommandé. Demandez aux autres d’en porter un également."
+            }
+        },
+        {
+            "id": "BBR_083",
+            "riskLevel": 1,
+            "vulnerable": 1,
+            "title": {
+                "en": "How to see your friends and family outdoors.",
+                "fr": "Comment voir vos amis et votre famille à l’extérieur."
+            },
+            "subtitle": {
+                "en": "You should maintain 2-metres distance from others (or more if they aren’t wearing a mask).",
+                "fr": "Maintenez une distance de 2 mètres avec les autres (ou une distance plus grande s’ils ne portent pas de masque)."
+            }
+        },
+        {
+            "id": "BBR_084",
+            "riskLevel": 1,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should only use public transit when necessary.",
+                "fr": "Utilisez les transports en commun seulement lorsque c’est absolument nécessaire."
+            },
+            "subtitle": {
+                "en": "You should try to avoid crowded transit stations.",
+                "fr": "Évitez les stations très achalandées."
+            }
+        },
+        {
+            "id": "BBR_085",
+            "riskLevel": 1,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should only use public transit when necessary.",
+                "fr": "Utilisez les transports en commun seulement lorsque c’est absolument nécessaire."
+            },
+            "subtitle": {
+                "en": "It's strongly recommended you wear a mask at all times.",
+                "fr": "Utilisez les transports en commun uniquement lorsque nécessaire."
+            }
+        },
+        {
+            "id": "BBR_086",
+            "riskLevel": 1,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should only use public transit when necessary.",
+                "fr": "Utilisez les transports en commun seulement lorsque c’est absolument nécessaire."
+            },
+            "subtitle": {
+                "en": "You should maintain 2-metres distance from others.",
+                "fr": "Le port du masque est fortement recommandé en tout temps."
+            }
+        },
+        {
+            "id": "BBR_087",
+            "riskLevel": 1,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should only use public transit when necessary.",
+                "fr": "Utilisez les transports en commun seulement lorsque c’est absolument nécessaire."
+            },
+            "subtitle": {
+                "en": "Use hand sanitizer after you touch railings and other surfaces.",
+                "fr": "Maintenez une distance de 2 mètres avec les autres."
+            }
+        },
+        {
+            "id": "BBR_088",
+            "riskLevel": 1,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should only use public transit when necessary.",
+                "fr": "Utilisez les transports en commun seulement lorsque c’est absolument nécessaire."
+            },
+            "subtitle": {
+                "en": "Limit your number of trips.",
+                "fr": "Utilisez du désinfectant pour les mains après avoir touché les rampes et les autres surfaces."
+            }
+        },
+        {
+            "id": "BBR_089",
+            "riskLevel": 1,
+            "vulnerable": 1,
+            "title": {
+                "en": "How you can protect other vulnerable people.",
+                "fr": "Comment protéger les autres personnes vulnérables."
+            },
+            "subtitle": {
+                "en": "People over 60 or with certain medical conditions are at increased risk of severe complications from Covid-19.",
+                "fr": "Les personnes qui ont plus de 60 ans ou qui ont certaines conditions de santé sont exposées à un risque accru de développer des complications graves en lien avec la COVID-19."
+            }
+        },
+        {
+            "id": "BBR_090",
+            "riskLevel": 1,
+            "vulnerable": 1,
+            "title": {
+                "en": "How you can protect other vulnerable people.",
+                "fr": "Comment protéger les autres personnes vulnérables."
+            },
+            "subtitle": {
+                "en": "If you are meeting with someone else who is vulnerable, it’s recommended you meet them outdoors, you wear a mask, and that you maintain 2-metres of distance.",
+                "fr": "Si vous devez rencontrer une autre personne vulnérable, il est recommandé de le faire à l’extérieur, de porter un masque et de maintenir une distance de 2 mètres avec elle."
+            }
+        },
+        {
+            "id": "BBR_091",
+            "riskLevel": 1,
+            "vulnerable": 1,
+            "title": {
+                "en": "How you can protect other vulnerable people.",
+                "fr": "Comment protéger les autres personnes vulnérables."
+            },
+            "subtitle": {
+                "en": "Phone or online communication with other vulnerable people is recommended.",
+                "fr": "L’utilisation du téléphone ou des moyens de communication en ligne est recommandée pour communiquer avec les autres personnes vulnérables."
+            }
+        },
+        {
+            "id": "BBR_092",
+            "riskLevel": 1,
+            "vulnerable": 1,
+            "title": {
+                "en": "Get your groceries and essentials delivered or by curbside pickup.",
+                "fr": "Utilisez le service de ramassage de commande ou faites livrer à la maison votre épicerie et vos articles essentiels."
+            },
+            "subtitle": {
+                "en": "When your items are delivered, have them left at your door. Don't ask anyone to come inside.",
+                "fr": "Pour la livraison, demandez à ce que vos articles soient déposés à votre porte. N’invitez personne à l’intérieur."
+            }
+        },
+        {
+            "id": "BBR_093",
+            "riskLevel": 1,
+            "vulnerable": 1,
+            "title": {
+                "en": "Get your groceries and essentials delivered or by curbside pickup.",
+                "fr": "Utilisez le service de ramassage de commande ou faites livrer à la maison votre épicerie et vos articles essentiels."
+            },
+            "subtitle": {
+                "en": "For curbside pickup, keep your interactions with others brief. Maintain 2-metres of distance from others.",
+                "fr": "Pour le ramassage de commande, ayez des interactions aussi courtes que possible avec les autres et maintenez une distance de 2 mètres avec eux."
+            }
+        },
+        {
+            "id": "BBR_094",
+            "riskLevel": 1,
+            "vulnerable": 1,
+            "title": {
+                "en": "Get your groceries and essentials delivered or by curbside pickup.",
+                "fr": "Utilisez le service de ramassage de commande ou faites livrer à la maison votre épicerie et vos articles essentiels."
+            },
+            "subtitle": {
+                "en": "If you have to go inside a store, you must wear a mask",
+                "fr": "Si vous devez entrer dans un magasin, vous devez porter un masque."
+            }
+        },
+        {
+            "id": "BBR_095",
+            "riskLevel": 1,
+            "vulnerable": 1,
+            "title": {
+                "en": "Get your groceries and essentials delivered or by curbside pickup.",
+                "fr": "Utilisez le service de ramassage de commande ou faites livrer à la maison votre épicerie et vos articles essentiels."
+            },
+            "subtitle": {
+                "en": "Rinsing items you’ve purchased with warm water can reduce risk of transmission.",
+                "fr": "Vous pouvez aider à réduire le risque de transmission en rinçant à l’eau chaude les articles que vous avez achetés."
+            }
+        },
+        {
+            "id": "BBR_096",
+            "riskLevel": 1,
+            "vulnerable": 1,
+            "title": {
+                "en": "How you can enjoy the outdoors safely, but with caution.",
+                "fr": "Comment profiter des espaces extérieurs de façon sécuritaire et prudente."
+            },
+            "subtitle": {
+                "en": "You should maintain 2-metres distance from others.",
+                "fr": "Maintenez une distance de 2 mètres avec les autres."
+            }
+        },
+        {
+            "id": "BBR_097",
+            "riskLevel": 1,
+            "vulnerable": 1,
+            "title": {
+                "en": "How you can enjoy the outdoors safely, but with caution.",
+                "fr": "Comment profiter des espaces extérieurs de façon sécuritaire et prudente."
+            },
+            "subtitle": {
+                "en": "You should wear a mask to decrease the potential risk of transmission.",
+                "fr": "Portez un masque pour diminuer le risque de transmission."
+            }
+        },
+        {
+            "id": "BBR_098",
+            "riskLevel": 1,
+            "vulnerable": 1,
+            "title": {
+                "en": "How you can enjoy the outdoors safely, but with caution.",
+                "fr": "Comment profiter des espaces extérieurs de façon sécuritaire et prudente."
+            },
+            "subtitle": {
+                "en": "Always wash your hands when you return home.",
+                "fr": "Lavez toujours vos mains à votre retour à la maison."
+            }
+        },
+        {
+            "id": "BBR_099",
+            "riskLevel": 1,
+            "vulnerable": 1,
+            "title": {
+                "en": "All your retail shopping should be delivered or curbside pick up.",
+                "fr": "Utilisez le service de ramassage de commande ou faites livrer tous vos articles à la maison."
+            },
+            "subtitle": {
+                "en": "If your retail purchase is not vital, and both curbside pickup and delivery are not available, it’s recommended you do not go inside a store.",
+                "fr": "Si vous voulez acheter des articles non essentiels et que les services de ramassage de commande ou de livraison ne sont pas offerts, renoncez à aller dans un magasin."
+            }
+        },
+        {
+            "id": "BBR_100",
+            "riskLevel": 1,
+            "vulnerable": 1,
+            "title": {
+                "en": "All your retail shopping should be delivered or curbside pick up.",
+                "fr": "Utilisez le service de ramassage de commande ou faites livrer tous vos articles à la maison."
+            },
+            "subtitle": {
+                "en": "When your items are delivered, have them left at your door. Don't ask anyone to come inside. And try to keep your interactions with others brief.",
+                "fr": "Pour la livraison, demandez à ce que vos articles soient déposés à votre porte. N’invitez personne à l’intérieur et ayez des interactions aussi courtes que possible avec les autres."
+            }
+        },
+        {
+            "id": "BBR_101",
+            "riskLevel": 2,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should work from home.",
+                "fr": "Travaillez de la maison."
+            },
+            "subtitle": {
+                "en": "If you can work remotely, it's safer than going to work.",
+                "fr": "Travaillez à distance si vous le pouvez. C’est plus sûr que d’aller au travail."
+            }
+        },
+        {
+            "id": "BBR_102",
+            "riskLevel": 2,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should work from home.",
+                "fr": "Travaillez de la maison."
+            },
+            "subtitle": {
+                "en": "If you’re working with coworkers, you should wear a mask and face shield.",
+                "fr": "Portez un masque et une visière si vous devez travailler avec vos collègues."
+            }
+        },
+        {
+            "id": "BBR_103",
+            "riskLevel": 2,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should work from home.",
+                "fr": "Travaillez de la maison."
+            },
+            "subtitle": {
+                "en": "You should maintain 2-metres distance from others.",
+                "fr": "Maintenez une distance de 2 mètres avec les autres."
+            }
+        },
+        {
+            "id": "BBR_104",
+            "riskLevel": 2,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should work from home.",
+                "fr": "Travaillez de la maison."
+            },
+            "subtitle": {
+                "en": "Wash your hands after touching objects and surfaces used by others.",
+                "fr": "Lavez vos mains après avoir touché des objets et des surfaces auxquels d’autres personnes ont accès."
+            }
+        },
+        {
+            "id": "BBR_105",
+            "riskLevel": 2,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should avoid seeing your friends and family outdoors.",
+                "fr": "Évitez de voir vos amis et votre famille à l’extérieur."
+            },
+            "subtitle": {
+                "en": "Phone or online communication from your home is recommended.",
+                "fr": "L’utilisation du téléphone ou des moyens de communication en ligne à partir de la maison est recommandée."
+            }
+        },
+        {
+            "id": "BBR_106",
+            "riskLevel": 2,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should avoid seeing your friends and family outdoors.",
+                "fr": "Évitez de voir vos amis et votre famille à l’extérieur."
+            },
+            "subtitle": {
+                "en": "If you must meet with your friends or family in person, meet outdoors, wear a mask, and maintain 2-metres of distance from others.",
+                "fr": "Si vous devez voir des amis ou des membres de votre famille en personne, rencontrez-les à l’extérieur, portez un masque et maintenez une distance de 2 mètres avec eux."
+            }
+        },
+        {
+            "id": "BBR_107",
+            "riskLevel": 2,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should avoid seeing your friends and family outdoors.",
+                "fr": "Évitez de voir vos amis et votre famille à l’extérieur."
+            },
+            "subtitle": {
+                "en": "Keep your meetings as brief as possible.",
+                "fr": "Ayez des interactions aussi courtes que possible."
+            }
+        },
+        {
+            "id": "BBR_108",
+            "riskLevel": 2,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should avoid seeing your friends and family outdoors.",
+                "fr": "Évitez de voir vos amis et votre famille à l’extérieur."
+            },
+            "subtitle": {
+                "en": "Wash your hands when you arrive to and leave the meeting.",
+                "fr": "Lavez vos mains lorsque vous arrivez au point de rencontre et le quittez."
+            }
+        },
+        {
+            "id": "BBR_109",
+            "riskLevel": 2,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should avoid using public transit.",
+                "fr": "Évitez d’utiliser les transports en commun."
+            },
+            "subtitle": {
+                "en": "If you must use transit, do not travel during rush hour.",
+                "fr": "Si vous devez utiliser les transports en commun, ne le faites pas durant les heures de pointe."
+            }
+        },
+        {
+            "id": "BBR_110",
+            "riskLevel": 2,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should avoid using public transit.",
+                "fr": "Évitez d’utiliser les transports en commun."
+            },
+            "subtitle": {
+                "en": "You should try and avoid crowded transit stations.",
+                "fr": "Évitez les stations très achalandées."
+            }
+        },
+        {
+            "id": "BBR_111",
+            "riskLevel": 2,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should avoid using public transit.",
+                "fr": "Évitez d’utiliser les transports en commun."
+            },
+            "subtitle": {
+                "en": "You should maintain 2-metres distance from others, even in crowded places.",
+                "fr": "Maintenez une distance de 2 mètres avec les autres, même dans les endroits bondés."
+            }
+        },
+        {
+            "id": "BBR_112",
+            "riskLevel": 2,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should avoid using public transit.",
+                "fr": "Évitez d’utiliser les transports en commun."
+            },
+            "subtitle": {
+                "en": "You should wear a mask and face shield at all times.",
+                "fr": "Portez un masque et une visière en tout temps."
+            }
+        },
+        {
+            "id": "BBR_113",
+            "riskLevel": 2,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should avoid using public transit.",
+                "fr": "Évitez d’utiliser les transports en commun."
+            },
+            "subtitle": {
+                "en": "Use hand sanitizer after you touch railings and other surfaces.",
+                "fr": "Utilisez du désinfectant pour les mains après avoir touché les rampes et les autres surfaces."
+            }
+        },
+        {
+            "id": "BBR_114",
+            "riskLevel": 2,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should avoid using public transit.",
+                "fr": "Évitez d’utiliser les transports en commun."
+            },
+            "subtitle": {
+                "en": "Limit your number of trips.",
+                "fr": "Limitez le nombre de vos déplacements."
+            }
+        },
+        {
+            "id": "BBR_115",
+            "riskLevel": 2,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should not put other vulnerable people at risk.",
+                "fr": "Évitez de mettre les autres personnes vulnérables à risque."
+            },
+            "subtitle": {
+                "en": "People over 60 or with certain medical conditions are at increased risk of severe complications from Covid-19.",
+                "fr": "Les personnes qui ont plus de 60 ans ou qui ont certaines conditions de santé sont exposées à un risque accru de développer des complications graves en lien avec la COVID-19."
+            }
+        },
+        {
+            "id": "BBR_116",
+            "riskLevel": 2,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should not put other vulnerable people at risk.",
+                "fr": "Évitez de mettre les autres personnes vulnérables à risque."
+            },
+            "subtitle": {
+                "en": "If you absolutely must meet with someone vulnerable, it’s strongly recommended you meet them outdoors, you wear a mask and face shield, and that you maintain 2-metres of distance.",
+                "fr": "Si vous devez absolument rencontrer une personne vulnérable, il est fortement recommandé de le faire à l’extérieur, de porter un masque et une visière et de maintenir une distance de 2 mètres avec elle."
+            }
+        },
+        {
+            "id": "BBR_117",
+            "riskLevel": 2,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should not put other vulnerable people at risk.",
+                "fr": "Évitez de mettre les autres personnes vulnérables à risque."
+            },
+            "subtitle": {
+                "en": "Keep your meetings as brief as possible.",
+                "fr": "Ayez des interactions aussi courtes que possible."
+            }
+        },
+        {
+            "id": "BBR_118",
+            "riskLevel": 2,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should not put other vulnerable people at risk.",
+                "fr": "Évitez de mettre les autres personnes vulnérables à risque."
+            },
+            "subtitle": {
+                "en": "Phone or online communication with vulnerable people is recommended as the safest alternative.",
+                "fr": "L’utilisation du téléphone ou des moyens de communication en ligne est la façon la plus sûre de communiquer avec les personnes vulnérables."
+            }
+        },
+        {
+            "id": "BBR_119",
+            "riskLevel": 2,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should not put other vulnerable people at risk.",
+                "fr": "Évitez de mettre les autres personnes vulnérables à risque."
+            },
+            "subtitle": {
+                "en": "If you're dropping something off, leave it at their door. You should not go inside.",
+                "fr": "Si vous apportez quelque chose à une personne vulnérable, laissez la chose en question à sa porte. N’allez pas à l’intérieur."
+            }
+        },
+        {
+            "id": "BBR_120",
+            "riskLevel": 2,
+            "vulnerable": 1,
+            "title": {
+                "en": "Have all your groceries and essentials delivered.",
+                "fr": "Faites livrer à la maison tous vos articles essentiels et toutes vos épiceries."
+            },
+            "subtitle": {
+                "en": "When your items are delivered, have them left at your door. Don't ask anyone to come inside.",
+                "fr": "Pour la livraison, demandez à ce que vos articles soient déposés à votre porte. N’invitez personne à l’intérieur."
+            }
+        },
+        {
+            "id": "BBR_121",
+            "riskLevel": 2,
+            "vulnerable": 1,
+            "title": {
+                "en": "Have all your groceries and essentials delivered.",
+                "fr": "Faites livrer à la maison tous vos articles essentiels et toutes vos épiceries."
+            },
+            "subtitle": {
+                "en": "For curbside pickup, keep your interactions with others brief. Maintain 2-metres of distance from others.",
+                "fr": "Pour le ramassage de commande, ayez des interactions aussi courtes que possible avec les autres et maintenez une distance de 2 mètres avec eux."
+            }
+        },
+        {
+            "id": "BBR_122",
+            "riskLevel": 2,
+            "vulnerable": 1,
+            "title": {
+                "en": "Have all your groceries and essentials delivered.",
+                "fr": "Faites livrer à la maison tous vos articles essentiels et toutes vos épiceries."
+            },
+            "subtitle": {
+                "en": "If you have to go inside a store, you must wear a mask",
+                "fr": "Si vous devez entrer dans un magasin, vous devez porter un masque."
+            }
+        },
+        {
+            "id": "BBR_123",
+            "riskLevel": 2,
+            "vulnerable": 1,
+            "title": {
+                "en": "Have all your groceries and essentials delivered.",
+                "fr": "Faites livrer à la maison tous vos articles essentiels et toutes vos épiceries."
+            },
+            "subtitle": {
+                "en": "Rinsing items you’ve purchased with warm water can reduce risk of transmission.",
+                "fr": "Vous pouvez aider à réduire le risque de transmission en rinçant à l’eau chaude les articles que vous avez achetés."
+            }
+        },
+        {
+            "id": "BBR_124",
+            "riskLevel": 2,
+            "vulnerable": 1,
+            "title": {
+                "en": "How you can enjoy the outdoors safely, but with caution.",
+                "fr": "Comment profiter des espaces extérieurs de façon sécuritaire et prudente"
+            },
+            "subtitle": {
+                "en": "You should maintain 2-metres distance from others.",
+                "fr": "Maintenez une distance de 2 mètres avec les autres."
+            }
+        },
+        {
+            "id": "BBR_125",
+            "riskLevel": 2,
+            "vulnerable": 1,
+            "title": {
+                "en": "How you can enjoy the outdoors safely, but with caution.",
+                "fr": "Comment profiter des espaces extérieurs de façon sécuritaire et prudente"
+            },
+            "subtitle": {
+                "en": "You should wear a mask to decrease the potential risk of transmission.",
+                "fr": "Portez un masque pour diminuer le risque de transmission."
+            }
+        },
+        {
+            "id": "BBR_126",
+            "riskLevel": 2,
+            "vulnerable": 1,
+            "title": {
+                "en": "How you can enjoy the outdoors safely, but with caution.",
+                "fr": "Comment profiter des espaces extérieurs de façon sécuritaire et prudente"
+            },
+            "subtitle": {
+                "en": "Always wash your hands when you return home.",
+                "fr": "Lavez toujours vos mains à votre retour à la maison."
+            }
+        },
+        {
+            "id": "BBR_127",
+            "riskLevel": 2,
+            "vulnerable": 1,
+            "title": {
+                "en": "All your retail shopping should be delivered or curbside pick up.",
+                "fr": "Utilisez le service de ramassage de commande ou faites livrer tous vos articles à la maison."
+            },
+            "subtitle": {
+                "en": "If your retail purchase is not vital, and both curbside pickup and delivery are not available, it’s recommended you do not go inside a store.",
+                "fr": "Si vous voulez acheter des articles non essentiels et que les services de ramassage de commande ou de livraison ne sont pas offerts, renoncez à aller dans un magasin."
+            }
+        },
+        {
+            "id": "BBR_128",
+            "riskLevel": 2,
+            "vulnerable": 1,
+            "title": {
+                "en": "All your retail shopping should be delivered or curbside pick up.",
+                "fr": "Utilisez le service de ramassage de commande ou faites livrer tous vos articles à la maison."
+            },
+            "subtitle": {
+                "en": "When your items are delivered, have them left at your door. Don't ask anyone to come inside. And try to keep your interactions with others brief.",
+                "fr": "Pour la livraison, demandez à ce que vos articles soient déposés à votre porte. N’invitez personne à l’intérieur et ayez des interactions aussi courtes que possible avec les autres."
+            }
+        },
+        {
+            "id": "BBR_129",
+            "riskLevel": 3,
+            "vulnerable": 1,
+            "title": {
+                "en": "You need to stay home from work.",
+                "fr": "Vous ne devez pas aller au travail. Travaillez de la maison."
+            },
+            "subtitle": {
+                "en": "If you can work remotely, it's safer than going to work.",
+                "fr": "Travaillez à distance si vous le pouvez. C’est plus sûr que d’aller au travail."
+            }
+        },
+        {
+            "id": "BBR_130",
+            "riskLevel": 3,
+            "vulnerable": 1,
+            "title": {
+                "en": "You need to stay home from work.",
+                "fr": "Vous ne devez pas aller au travail. Travaillez de la maison."
+            },
+            "subtitle": {
+                "en": "If you must work with coworkers, it’s necessary that you wear a mask and face shield.",
+                "fr": "Si vous devez travailler avec des collègues, vous devez porter un masque et une visière."
+            }
+        },
+        {
+            "id": "BBR_131",
+            "riskLevel": 3,
+            "vulnerable": 1,
+            "title": {
+                "en": "You need to stay home from work.",
+                "fr": "Vous ne devez pas aller au travail. Travaillez de la maison."
+            },
+            "subtitle": {
+                "en": "You should maintain 2-metres distance from others.",
+                "fr": "Maintenez une distance de 2 mètres avec les autres."
+            }
+        },
+        {
+            "id": "BBR_132",
+            "riskLevel": 3,
+            "vulnerable": 1,
+            "title": {
+                "en": "You need to stay home from work.",
+                "fr": "Vous ne devez pas aller au travail. Travaillez de la maison."
+            },
+            "subtitle": {
+                "en": "Wash your hands after touching objects and surfaces used by others.",
+                "fr": "Lavez vos mains après avoir touché des objets et des surfaces auxquels d’autres personnes ont accès."
+            }
+        },
+        {
+            "id": "BBR_133",
+            "riskLevel": 3,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should not see your friends and family outdoors or in person.",
+                "fr": "Ne voyez aucun ami ni membre de votre famille, ni en personne ni à l’extérieur."
+            },
+            "subtitle": {
+                "en": "Phone or online communication from your home is strongly recommended.",
+                "fr": "L’utilisation du téléphone ou des moyens de communication en ligne à partir de la maison est fortement recommandée."
+            }
+        },
+        {
+            "id": "BBR_134",
+            "riskLevel": 3,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should not see your friends and family outdoors or in person.",
+                "fr": "Ne voyez aucun ami ni membre de votre famille, ni en personne ni à l’extérieur."
+            },
+            "subtitle": {
+                "en": "If you need someone to drop something off, have the items left at your door.",
+                "fr": "Si quelqu’un doit venir vous porter quelque chose, demandez-lui de le déposer à votre porte."
+            }
+        },
+        {
+            "id": "BBR_135",
+            "riskLevel": 3,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should not see your friends and family outdoors or in person.",
+                "fr": "Ne voyez aucun ami ni membre de votre famille, ni en personne ni à l’extérieur."
+            },
+            "subtitle": {
+                "en": "Do not invite others into your home.",
+                "fr": "N’invitez personne à l’intérieur de votre maison."
+            }
+        },
+        {
+            "id": "BBR_136",
+            "riskLevel": 3,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should not use public transit.",
+                "fr": "N’utilisez pas les transports en commun."
+            },
+            "subtitle": {
+                "en": "Your use of public transit would be unsafe right now.",
+                "fr": "Il est risqué d’utiliser les transports en commun en ce moment."
+            }
+        },
+        {
+            "id": "BBR_137",
+            "riskLevel": 3,
+            "vulnerable": 1,
+            "title": {
+                "en": "Do not put other vulnerable people at risk.",
+                "fr": "Ne mettez pas les autres personnes vulnérables à risque."
+            },
+            "subtitle": {
+                "en": "People over 60 or with certain medical conditions are at increased risk of severe complications from Covid-19.",
+                "fr": "Les personnes qui ont plus de 60 ans ou qui ont certaines conditions de santé sont exposées à un risque accru de développer des complications graves en lien avec la COVID-19."
+            }
+        },
+        {
+            "id": "BBR_138",
+            "riskLevel": 3,
+            "vulnerable": 1,
+            "title": {
+                "en": "Do not put other vulnerable people at risk.",
+                "fr": "Ne mettez pas les autres personnes vulnérables à risque."
+            },
+            "subtitle": {
+                "en": "At this time, it’s strongly recommended you do not visit vulnerable people.",
+                "fr": "En ce moment, il est fortement recommandé de ne pas voir de personnes vulnérables."
+            }
+        },
+        {
+            "id": "BBR_139",
+            "riskLevel": 3,
+            "vulnerable": 1,
+            "title": {
+                "en": "Do not put other vulnerable people at risk.",
+                "fr": "Ne mettez pas les autres personnes vulnérables à risque."
+            },
+            "subtitle": {
+                "en": "Phone or online communication with vulnerable people is recommended as the safest alternative.",
+                "fr": "L’utilisation du téléphone ou des moyens de communication en ligne est la façon la plus sûre de communiquer avec les personnes vulnérables."
+            }
+        },
+        {
+            "id": "BBR_140",
+            "riskLevel": 3,
+            "vulnerable": 1,
+            "title": {
+                "en": "Have all your groceries and essentials delivered.",
+                "fr": "Faites livrer à la maison tous vos articles essentiels et toutes vos épiceries."
+            },
+            "subtitle": {
+                "en": "When your items are delivered, have them left at your door. Don't ask anyone to come inside.",
+                "fr": "Demandez à ce que vos articles soient déposés à votre porte. N’invitez personne à l’intérieur."
+            }
+        },
+        {
+            "id": "BBR_141",
+            "riskLevel": 3,
+            "vulnerable": 1,
+            "title": {
+                "en": "Have all your groceries and essentials delivered.",
+                "fr": "Faites livrer à la maison tous vos articles essentiels et toutes vos épiceries."
+            },
+            "subtitle": {
+                "en": "For curbside pickup, keep your interactions with others brief. Maintain 2-metres of distance from others.",
+                "fr": "Pour le ramassage de commande, ayez des interactions aussi courtes que possible avec les autres et maintenez une distance de 2 mètres avec eux."
+            }
+        },
+        {
+            "id": "BBR_142",
+            "riskLevel": 3,
+            "vulnerable": 1,
+            "title": {
+                "en": "Have all your groceries and essentials delivered.",
+                "fr": "Faites livrer à la maison tous vos articles essentiels et toutes vos épiceries."
+            },
+            "subtitle": {
+                "en": "If you have to go inside a store, you must wear a mask",
+                "fr": "Si vous devez entrer dans un magasin, vous devez porter un masque."
+            }
+        },
+        {
+            "id": "BBR_143",
+            "riskLevel": 3,
+            "vulnerable": 1,
+            "title": {
+                "en": "Have all your groceries and essentials delivered.",
+                "fr": "Faites livrer à la maison tous vos articles essentiels et toutes vos épiceries."
+            },
+            "subtitle": {
+                "en": "Rinsing items you’ve purchased with warm water can reduce risk of transmission.",
+                "fr": "Vous pouvez aider à réduire le risque de transmission en rinçant à l’eau chaude les articles que vous avez achetés."
+            }
+        },
+        {
+            "id": "BBR_144",
+            "riskLevel": 3,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should stay home instead of going outdoors.",
+                "fr": "Restez à la maison plutôt que d’aller à l’extérieur."
+            },
+            "subtitle": {
+                "en": "If you must go outdoors, it’s strongly recommended you wear a mask or face shield.",
+                "fr": "Si vous devez aller à l’extérieur, le port du masque ou de la visière est fortement recommandé."
+            }
+        },
+        {
+            "id": "BBR_145",
+            "riskLevel": 3,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should stay home instead of going outdoors.",
+                "fr": "Restez à la maison plutôt que d’aller à l’extérieur."
+            },
+            "subtitle": {
+                "en": "You should always maintain 2-metres distance from others.",
+                "fr": "Maintenez toujours une distance de 2 mètres avec les autres."
+            }
+        },
+        {
+            "id": "BBR_146",
+            "riskLevel": 3,
+            "vulnerable": 1,
+            "title": {
+                "en": "You should stay home instead of going outdoors.",
+                "fr": "Restez à la maison plutôt que d’aller à l’extérieur."
+            },
+            "subtitle": {
+                "en": "Always wash your hands when you return home.",
+                "fr": "Lavez toujours vos mains à votre retour à la maison."
+            }
+        },
+        {
+            "id": "BBR_147",
+            "riskLevel": 3,
+            "vulnerable": 1,
+            "title": {
+                "en": "Do not go retail shopping: get your items delivered.",
+                "fr": "N’allez pas magasiner. Faites livrer tous vos articles."
+            },
+            "subtitle": {
+                "en": "It’s recommended you do not leave your home for retail shopping or curbside pickup.",
+                "fr": "Restez à la maison. N’allez pas magasiner. N’utilisez pas le service de ramassage de commande."
+            }
+        },
+        {
+            "id": "BBR_148",
+            "riskLevel": 3,
+            "vulnerable": 1,
+            "title": {
+                "en": "Do not go retail shopping: get your items delivered.",
+                "fr": "N’allez pas magasiner. Faites livrer tous vos articles."
+            },
+            "subtitle": {
+                "en": "If you’re having items delivered, have them left at your door. Don't ask anyone to come inside.",
+                "fr": "Pour la livraison, demandez à ce que vos articles soient déposés à votre porte. N’invitez personne à l’intérieur."
+            }
+        }
+    ]
+}

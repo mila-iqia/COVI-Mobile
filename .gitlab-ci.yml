@@ -1,0 +1,39 @@
+stages:
+  - build
+build_ios:
+  stage: build
+  tags:
+    - macos
+  only:
+    - tags
+  script:
+    - sudo gem install cocoapods
+    - $HOME/development/flutter/bin/flutter pub get
+    - $HOME/development/flutter/bin/flutter clean
+    - security unlock-keychain -p$KEYCHAIN_PASSWORD
+    - $HOME/development/flutter/bin/flutter build ios --release --obfuscate --split-debug-info covi/${CI_COMMIT_TAG}
+    - cd ios
+    - security unlock-keychain -p$KEYCHAIN_PASSWORD
+    - xcodebuild -workspace Runner.xcworkspace -scheme Runner -sdk iphoneos -configuration AppStoreDistribution archive -archivePath $PWD/build/Covi.xcarchive
+    - security unlock-keychain -p$KEYCHAIN_PASSWORD
+    - xcodebuild -exportArchive -archivePath $PWD/build/Covi.xcarchive -exportOptionsPlist exportOptions.plist -exportPath $PWD/Covi.ipa -allowProvisioningUpdates
+  artifacts:
+    when: always
+    paths:
+      - ios/Covi.ipa
+
+build_android:
+  stage: build
+  tags:
+    - macos
+  only:
+    - tags
+  script:
+    - $HOME/development/flutter/bin/flutter pub get
+    - $HOME/development/flutter/bin/flutter clean
+    - $HOME/development/flutter/bin/flutter build appbundle --target-platform android-arm,android-arm64,android-x64 --obfuscate --split-debug-info covi/${CI_COMMIT_TAG}
+    - mv build/app/outputs/bundle/release/app-release.aab android/
+  artifacts:
+    when: always
+    paths:
+      - android/app-release.aab

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="254" height="183" viewBox="0 0 254 183">
+    <defs>
+        <filter id="prefix__a" width="128%" height="142%" x="-14%" y="-21%" filterUnits="objectBoundingBox">
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="10"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+        </filter>
+        <rect id="prefix__b" width="214" height="143" x="0" y="0" rx="12"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(20 20)">
+        <use fill="#000" filter="url(#prefix__a)" xlink:href="#prefix__b"/>
+        <use fill="#FFF" xlink:href="#prefix__b"/>
+        <path stroke="#E9EBEC" d="M106.5 103.5H.5V131c0 3.176 1.287 6.05 3.368 8.132C5.95 141.212 8.824 142.5 12 142.5h94.5v-39z"/>
+        <path fill="#EDF0F6" stroke="#2E4E9E" d="M213.5 103.5h-107v39H202c3.176 0 6.05-1.287 8.132-3.368 2.08-2.081 3.368-4.956 3.368-8.132v-27.5z"/>
+        <path fill="#E9EBEC" d="M47 31H169V39H47zM36 48H180V56H36zM47 65H169V73H47zM26 119H82V127H26z"/>
+        <text fill="#2E4E9E" font-family="NeueMontreal-Bold, Neue Montreal" font-size="14" font-weight="bold" letter-spacing=".5">
+            <tspan x="140.652" y="127">Allow</tspan>
+        </text>
+    </g>
+</svg>

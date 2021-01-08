@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="118px" viewBox="0 0 320 118" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Group 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="320" height="118"></rect>
+    </defs>
+    <g id="Maquettes-graphiques" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="7A---EN" transform="translate(0.000000, -273.000000)">
+            <g id="Group-8" transform="translate(0.000000, 273.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="path-1"></g>
+                <path d="M0,-408 C0,-172.068234 0,-37.4194197 0,-4.05355779 C0,45.9952351 58,118 160,118 C247.037619,118 320,36.0548139 320,36.0548139 C320,36.0548139 320,-111.963457 320,-408 L0,-408 Z" id="Fill-1" fill="#2E4E9E" mask="url(#mask-2)"></path>
+                <path d="M249,28 C223.858023,57.3333333 193.858023,72 159,72" id="Path-7" stroke="#2D3953" stroke-width="50" stroke-linecap="round" mask="url(#mask-2)"></path>
+                <path d="M159,71.9962211 C121.749676,72.2705829 90.4163423,57.6051758 65,28" id="Path-8" stroke="#2D3953" stroke-width="50" stroke-linecap="round" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

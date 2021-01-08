@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="118px" viewBox="0 0 320 118" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>darkBlueChecks-bottom</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="320" height="118"></rect>
+        <path d="M0,3.41060513e-13 C0,235.780313 0,370.34269 0,403.687133 C0,453.703798 58,525.66234 160,525.66234 C247.037619,525.66234 320,443.769758 320,443.769758 C320,443.769758 320,295.846505 320,3.41060513e-13 L0,3.41060513e-13 Z" id="path-3"></path>
+    </defs>
+    <g id="Maquettes-2.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-97.000000, -100.000000)">
+            <g id="darkBlueChecks-bottom" transform="translate(97.000000, 100.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="path-1"></g>
+                <g id="Group" mask="url(#mask-2)">
+                    <g transform="translate(0.000000, -408.000000)">
+                        <g>
+                            <g id="Mask" transform="translate(160.000000, 263.000000) scale(-1, 1) translate(-160.000000, -263.000000) " fill="#2D3953">
+                                <path d="M0,3.41060513e-13 C0,235.780313 0,370.34269 0,403.687133 C0,453.703798 58,525.66234 160,525.66234 C247.037619,525.66234 320,443.769758 320,443.769758 C320,443.769758 320,295.846505 320,3.41060513e-13 L0,3.41060513e-13 Z" id="path-3"></path>
+                            </g>
+                            <g id="Fill-1-Copy-Clipped">
+                                <mask id="mask-4" fill="white">
+                                    <use xlink:href="#path-3"></use>
+                                </mask>
+                                <g id="path-3"></g>
+                                <path d="M35.1513672,475.640625 C48.7523394,455.098972 75.890301,450.816121 96.2703405,464.537556 C113.908096,476.411118 120.390433,498.822255 112.983542,517.954753 C86.3792796,509.363173 60.4352214,495.258464 35.1513672,475.640625 Z" id="Fill-1-Copy" fill="#FE8A8A" mask="url(#mask-4)"></path>
+                            </g>
+                            <g id="Fill-1-Copy-3-Clipped" transform="translate(249.000000, 408.000000)" fill="#37AA85">
+                                <path d="M22.371582,81.041504 C22.144433,80.730853 21.910406,80.410046 21.669502,80.079083 C19.384306,76.939597 14.564027,70.17409 7.208664,59.78256 C-4.928845,43.178206 -1.379027,19.832132 15.146452,7.632187 C31.667449,-4.567757 54.907103,-0.996493 67.049095,15.607862 C67.444795,15.780191 67.699589,16.149348 67.813477,16.715332 C58.723145,48.977539 33.906738,71.990723 22.371582,81.041504 Z" id="Fill-1-Copy-3"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

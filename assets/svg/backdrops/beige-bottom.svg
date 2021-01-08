@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="117px" viewBox="0 0 320 117" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="320" height="118"></rect>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="beige-bottom" transform="translate(0.000000, -62.000000)">
+            <g id="Group-4-Clipped" transform="translate(0.000000, 61.705627)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="path-1"></g>
+                <g id="Group-4" mask="url(#mask-2)">
+                    <g transform="translate(0.000000, -408.000000)" id="Group">
+                        <g>
+                            <g fill="#F6F0E9" fill-rule="nonzero" id="Mask">
+                                <g>
+                                    <g id="Group" transform="translate(160.000000, 263.000000) scale(-1, 1) translate(-160.000000, -263.000000) ">
+                                        <path d="M0,3.41060513e-13 C0,235.780313 0,370.34269 0,403.687133 C0,453.703798 58,525.66234 160,525.66234 C247.037619,525.66234 320,443.769758 320,443.769758 C320,443.769758 320,295.846505 320,3.41060513e-13 L0,3.41060513e-13 Z" id="path-3"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Fill-1-Clipped" transform="translate(95.000000, 0.705627)" fill="#FFC53B" fill-rule="nonzero">
+                <path d="M6.10178219,69.6001701 C21.7534772,66.3175963 37.1528042,65.3426488 53.5171932,65.3426488 C115.630955,65.3426488 188.165514,105.128098 232.083141,149.128815 C234.020183,151.069485 235.025907,152.035946 235.93947,152.98374 C207.572176,175.266027 169.120482,178.293328 152.595345,175.482916 C124.127082,155.589292 88.4852632,139.366425 58.1405402,137.831538 C48.2566672,129.334124 18.7684502,105.408158 6.10178219,69.6001701 Z" id="Fill-1" transform="translate(121.020626, 120.852140) rotate(-45.000000) translate(-121.020626, -120.852140) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

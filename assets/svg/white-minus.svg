@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="5px" viewBox="0 0 21 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Line</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Maquettes-2.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Accueil---02" transform="translate(-315.000000, -452.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Group-22" transform="translate(0.000000, -4.000000)">
+                <g id="Group-7" transform="translate(317.000000, 458.000000)">
+                    <path d="M0.5,2.5724766 L16.5,2.5724766 C17.6045695,2.5724766 18.5,1.6770461 18.5,0.572476596 C18.5,-0.532092903 17.6045695,-1.4275234 16.5,-1.4275234 L0.5,-1.4275234 C-0.6045695,-1.4275234 -1.5,-0.532092903 -1.5,0.572476596 C-1.5,1.6770461 -0.6045695,2.5724766 0.5,2.5724766 Z" id="Line"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

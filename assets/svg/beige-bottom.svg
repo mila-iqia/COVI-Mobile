@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="119px" viewBox="0 0 320 119" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>beige-bottom</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="320" height="118"></rect>
+    </defs>
+    <g id="Maquettes-graphiques" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-91.000000, -214.000000)">
+            <g id="beige-bottom" transform="translate(91.000000, 214.705627)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="path-1"></g>
+                <g id="Group-4" mask="url(#mask-2)">
+                    <g transform="translate(0.000000, -408.000000)" id="Group">
+                        <g>
+                            <g fill="#F6F0E9" fill-rule="nonzero" id="Mask">
+                                <g transform="translate(160.000000, 263.000000) scale(-1, 1) translate(-160.000000, -263.000000) ">
+                                    <path d="M0,3.41060513e-13 C0,235.780313 0,370.34269 0,403.687133 C0,453.703798 58,525.66234 160,525.66234 C247.037619,525.66234 320,443.769758 320,443.769758 C320,443.769758 320,295.846505 320,3.41060513e-13 L0,3.41060513e-13 Z" id="path-3"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <path d="M101.365837,8.19790137 C117.017532,4.91532763 132.416859,3.94038006 148.781248,3.94038006 C210.89501,3.94038006 284.136676,43.018723 328.054303,87.0194398 C329.991345,88.9601099 330.997069,89.9265705 331.910632,90.8743647 C313.256043,109.42466 257.364366,120.722718 247.8594,114.080647 C219.391137,94.1870232 183.749318,77.9641566 153.404595,76.4292693 C143.520722,67.9318552 114.032505,44.0058891 101.365837,8.19790137 Z" id="Fill-1" fill="#FFC53B" mask="url(#mask-2)" transform="translate(216.638235, 59.969748) rotate(-45.000000) translate(-216.638235, -59.969748) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,699 @@
+{
+    "shareTitle": "Donnez un coup de main en partageant l’application!",
+    "shareButtonLabel": "Partager",
+    "nothing": "rien",
+    "done": "Terminé",
+    "save": "Enregistrer",
+    "saving": "Enregistrement en cours",
+    "saved": "Enregistrement complété",
+    "deleting": "Suppression en cours",
+    "deleted": "Suppression complétée",
+    "continue": "Continuer",
+    "cancel": "Annuler",
+    "reset": "Réinitialiser",
+    "french": "Français",
+    "english": "Anglais",
+    "yes": "oui",
+    "no": "non",
+    "goBackTo": "Retour ",
+    "back": "Retour",
+    "seeMore": "Afficher plus",
+    "seeLess": "Afficher moins",
+    "shareSubject": "Partagez pour sauver des vies.",
+    "shareURL": "https://covicanada.org/fr/",
+    "privacyPolicyURL": "https://covicanada.org/fr/legal/politique-vie-privee/",
+    "termsAndConditionsURL":"https://covicanada.org/fr/legal/conditions-utilisation/",
+    "lastUpdated":"Mise à jour",
+    "today":"Aujourd’hui",
+    "at":"à",
+    "close":"Fermer",
+    "on": " sur ",
+    "selectDate": "Sélectionner une date",
+    "selectAnswer": "Sélectionnez une réponse",
+    "yourAnswer": "Votre réponse",
+    "screens": {
+        "dashboard": "au tableau de bord",
+        "profile": "au profil",
+        "health": "à l'écran santé"
+    },
+    "bottomNavigation":{
+        "home":"Accueil",
+        "health":"Santé",
+        "advices":"Conseils",
+        "resources":"Ressources"
+    },
+    "intro": {
+        "title": "Bienvenue sur COVI\nL’application contre la Covid-19",
+        "subtitle": "COVI vous permet de vous protéger et d’aider à limiter la propagation du virus.",
+        "swipe": "Faites défiler pour en savoir plus",
+        "skip": "Passer",
+        "slide2Title":"Votre profil santé",
+        "slide2Text":"Créez votre profil et auto-évaluez vos symptômes.",
+        "slide3Title":"Votre tableau de bord",
+        "slide3Text":"Consultez votre tableau de bord à chaque jour pour des conseils personnalisés.",
+        "slide4Title":"Vos notifications",
+        "slide4Text":"Recevez une notification lorsque vous avez pu être exposé au virus afin de vous isoler ou passer un test.",
+        "gotIt": "Ça marche!"
+    },
+    "introPrivacy":{
+        "title":"Votre vie privée et vos droits sont protégés",
+        "text":"Vos données sont protégées, stockées au Canada, supprimées régulièrement et utilisées uniquement pour lutter contre la Covid-19.",
+        "touAndPP":"COVI a besoin de votre consentement aux ",
+        "touAndPPLink":"\ntermes et conditions et à la politique de protection de la vie privée.",
+        "agree":"Je suis d’accord, commençons!"
+    },
+    "stepper": {
+        "step": "Étape",
+        "of": " de ",
+        "currentStep": ", étape courante",
+        "completed": ", déjà complétée"
+    },
+    "slider": {
+        "goTo": "Aller à la ",
+        "slide": "Diapositive ",
+        "of": " de ",
+        "currentslide": ", diapositive courante",
+        "displayed": " affichée"
+    },
+    "onboarding": {
+        "header1": "Processus d'accueil",
+        "backButton": "Précédent",
+        "continueButton": "Suivant",
+        "agreeButton": "Je suis d’accord",
+        "doneButton": "Soumettre",
+        "infoLabel": "Plus d'informations",
+        "consent": {
+            "header2": "Étape 1",
+            "closeModal": "Fermer la fenêtre d'informations",
+            "barrierLabel": "Comment vos données sont-elles recueillies, utilisées et divulguées?",
+            "dialogTitle": "Comment vos données sont-elles recueillies, utilisées et divulguées?",
+            "dialogSubtitle": "Pour vous donner les meilleurs conseils, l’application stocke localement sur votre téléphone:",
+            "infoDesc1": "- Âge, sexe et conditions de santé",
+            "infoDesc2": "- Symptômes autodéclarés",
+            "infoDesc3": "- Comportements autodéclarés",
+            "infoDesc4": "- Emplacement géographique approximatif et statistique de déplacements",
+            "infoDesc5": "- Historique des rencontres (supprimé après 30 jours)",
+            "infoDesc6": "- Données analytiques sur l’utilisation de l’application",
+            "infoDesc7": "- Résultat de test positif (avec consentement)",
+            "riskScoreTitle": "Niveau de risque personnel",
+            "riskScoreContent": "Votre profil, vos symptômes et vos résultats de test permettent à l’application d’estimer tous les jours votre niveau de risque d’être infecté par la Covid-19. En utilisant cette application, vous acceptez d’échanger ce niveau de risque avec les autres utilisateurs. Cette information ne permet pas de vous identifier directement et est cryptée afin de protéger votre vie privée. L’application utilise cette information pour ajuster les niveaux de risque des autres utilisateurs afin de limiter la propagation du virus.",
+            "analyticsTitle": "Données analytiques",
+            "analyticsContent": "COVI accède à des données analytiques non sensibles au sujet de votre utilisation de l'application pour améliorer son fonctionnement.",
+            "moreInformation": "Consulter la politique de protection de la vie privée",
+            "title": "Personnalisez vos paramètres de confidentialité. À tout moment, vous pouvez ajuster ces autorisations dans l'application ou effacer vos données.",
+            "anonymousCardTitle": "Partage crypté",
+            "anonymousCardText": "Afin que votre expérience soit personnalisée et mise à jour - de manière privée et sécurisée.",
+            "bluetoothCardTitle": "Services de localisation",
+            "bluetoothCardText": "Pour évaluer votre exposition potentielle par le biais du traçage communautaire.",
+            "pushNotificationCardTitle": "Notifications",
+            "pushNotificationCardText": "Pour être avisé des nouveaux conseils disponibles ou lorsque votre profil doit être mis à jour.",
+            "termsAndConditionsPreface":"Pour fonctionner, COVI a besoin de votre consentement aux ",
+            "termsAndConditions":"Conditions d'utilisation",
+            "asWellAs": ", telles que:"
+        },
+        "permissions": {
+            "header2": "Étape 2",
+            "title": "Services de localisation: Pour permettre à COVI de faire son travail, sélectionnez « Toujours autoriser ».\n\nNotifications: sélectionnez « Autoriser »",
+            "error": "Pour que COVI puisse faire son travail, vous devez accorder les autorisations nécessaires.",
+            "settingsButton": "Paramètres"
+        },
+        "dataShare": {
+            "title": "Aidez COVI à lutter contre la Covid-19",
+            "subtitle": "En partageant de l’information, vous aidez COVI Canada à améliorer ses conseils et aussi les autorités de santé publique à prévenir des éclosions en comprenant où et comment le virus se propage. Votre vie privée sera protégée.",
+            "switchLabel": "Je consens à partager mes données à COVI Canada.",
+            "switchSubtitle": "Seulement pour les utilisateurs de 19 ans et plus",
+            "deleteWhenYouWant": "Vous pouvez décider de retirer votre consentement ou effacer vos données à tout moment dans les paramètres de l’application.",
+            "privacySpeech": "Votre vie privée est importante pour nous.",
+            "privacyButton": "Découvrez comment nous la protégeons.",
+            "modal": {
+                "closeModal": "Fermer la fenêtre d'informations",
+                "barrierLabel": "Comment COVI Canada va-t-elle recueillir, utiliser et divulguer ces données ?",
+                "dialogTitle": "Comment COVI Canada va-t-elle recueillir, utiliser et divulguer ces données ?",
+                "nonIdentifyingTitle": "Données non identificatoires",
+                "nonIdentifyingContent": "Votre profil, état de santé, symptômes, niveau de risque, emplacement géographique approximatif et statistique de déplacement, résultats positifs et données d’utilisation seront envoyés à COVI Canada afin de comprendre comment le virus se propage et évaluer le risque de chacun. Cette information ne permet pas de vous identifier directement et est cryptée afin de protéger votre vie privée.",
+                "aggregateDataTitle": "Statistiques agrégées",
+                "aggregateDataContent": "Des données statistiques seront partagées avec les autorités de santé publique ou autres entités pour lutter contre la Covid-19",
+                "moreInformation": "Consulter la politique de protection de la vie privée"
+            }
+        },
+        "userForm": {
+            "header2": "Étape 1",
+            "allFieldsMandatory": "Tous les champs sont obligatoires.",
+            "title": "Créez votre profil afin de personnaliser COVI.",
+            "ageField": "Âge",
+            "ageFieldIncomplete": "Veuillez entrer votre âge.",
+            "ageFieldConsentNeeded": "Veuillez cocher l'autorisation parentale.",
+            "householdField": "La taille de mon ménage",
+            "householdFieldIncomplete": "Veuillez indiquer la taille de votre ménage.",
+            "tooYoung": "Cette application est destinée\naux utilisateurs âgés de 13 ans ou plus.",
+            "guardianConsent": "Mon parent ou tuteur légal accepte que j'utilise cette application.",
+            "genderField": "Sexe à la naissance",
+            "genderFieldIncomplete": "Veuillez entrer votre sexe à la naissance.",
+            "man": "Homme",
+            "woman": "Femme",
+            "other": "Autre",
+            "hasChronicHealthCondition": "J’ai un problème de santé chronique (e.g. diabète, cancer, maladie cardiaque, problèmes pulmonaires ou dépression immunitaire).",
+            "isSmoker": "Je vapote, fume ou j’ai fumé au cours des 10 dernières années.",
+            "hasDiabetes": "Je suis diabétique (ou je reçois un traitement pour le diabète).",
+            "isImmunosuppressed": "Je suis immunodéprimé(e) ou immunovulnérable.",
+            "hasCancer": "Je souffre d’un cancer actif.",
+            "hasHeartDisease": "Je souffre d’une maladie cardiaque (ou j’ai un historique de crise cardiaque, d’insuffisance cardiaque ou autres).",
+            "hasHypertension": "Je souffre d’hypertension artérielle (ou je reçois des traitements contre l’hypertension artérielle).",
+            "hasChronicLungCondition": "Je souffre d’une maladie pulmonaire chronique, d’emphysème et/ou d’asthme.",
+            "hadStroke": "J’ai été victime d’un accident vasculaire cérébral.",
+            "hasSymptoms": "J’éprouve actuellement des difficultés respiratoires.",
+            "closeToInfected": "Une personne de mon entourage (e.g. chez moi ou au travail) est atteinte de la Covid-19 ou l’a contractée au cours des 14 derniers jours.",
+            "hasTraveledOutsideCanada": "J’ai voyagé à l’extérieur du Canada au cours des 14 derniers jours.",
+            "hasCloseContactToOutsideTraveler": "Je suis en contact étroit avec une personne qui éprouve des difficultés respiratoires et qui a récemment voyagé à l’extérieur du Canada.",
+            "isHealthcareWorker": "Je travaille dans le secteur de la santé.",
+            "workWithInfected": "Je prodigue des soins à des personnes atteintes de la Covid-19.",
+            "uncompletedChanges": "Les informations saisies seront perdues."
+        }
+    },
+    "preDashboard":{
+        "title":"COVI est activée",
+        "subtitle":"COVI est prête à vous donner vos conseils personnalisés. ",
+        "buttonLabel":"Accéder à mon tableau de bord"
+    },
+    "home": {
+        "pageHeader": "Statistiques",
+        "dashboardTitle": "Tableau de bord",
+        "today": "Aujourd'hui",
+        "myRecommendations": "Vos conseils",
+        "news": {
+            "example": "<p>C’est la fin de la première semaine du retour à l’école! Prenez le temps de décompressez et passez du temps en famille.</p><p>Pour bien préparer la deuxième semaine, gardez en tête que plus tôt vous préparerez votre enfant pour sa rentrée, moins le contraste des premiers jours sera difficile à avaler pour lui. Il est donc tout indiqué de se remettre à la discipline d’un horaire régulier au moins une semaine à l’avance.</p>"
+        },
+        "poll": {
+            "title": "Sondage",
+            "question": "Portez-vous toujours un masque lors de vos sorties?",
+            "answerNumber": " utilisateurs de COVI ont répondu"
+        },
+        "charts": {
+            "instructions": "Appuyez à deux reprises et maintenez. Vous pouvez ensuite glisser de gauche à droite pour consulter les données.",
+            "noDataForRange": "Aucune donnée disponible pour la plage sélectionnée.",
+            "notFound":{
+                "card":"Nous n'avons pas étés en mesure de vous localiser.",
+                "country":"Impossible de localiser votre pays.",
+                "state":"Impossible de localiser votre province.",
+                "region":"Impossible de localiser votre région."
+            },
+            "genericTitles":{
+                "country":"Pays",
+                "province":"Province",
+                "region":"Votre Région"
+            },
+            "noLocationServices":{
+                "noOsLocationPermission":"Permission de Géolocalisation",
+                "noLocationServices":"Configuration de partage de localisation",
+                "noGPSService":"Services de localisation hors-ligne"
+            },
+            "tooltipUpdateWarnings": {
+                "noDataNoInternet":"Vérifiez votre connexion internet.",
+                "noDataNotReachable":"Vérifiez votre connexion internet."
+            },
+            "updateWarnings": {
+                "noDataNoInternet":"Impossible de télécharger de nouvelles données: Vérifiez votre connexion internet.",
+                "noDataNotReachable":"Impossible de télécharger de nouvelles données: Vérifiez votre connexion internet."
+            },
+            "informationUnavailable":"Ces données ne sont pas disponibles.",
+            "regionUnavailable":"Nous devons accéder à votre position géographique afin de voir les données de votre région.",
+            "privacySettings": "Paramètres",
+            "flipCardStats": "Voir les statistiques",
+            "flipCardChart": "Voir le graphique",
+            "statisticsDisplayed": "Les statistiques sont affichées",
+            "chartDisplayed": "Le graphique est affiché",
+            "cases": "Cas de Covid-19",
+            "recoveries": "Guéris",
+            "deaths": "Décès",
+            "n/a": "N/D",
+            "notAvailable": "Non disponible",
+            "newCases": " nouveaux cas",
+            "newRecoveries": " nouvelles guérisons",
+            "newDeaths": " nouveaux morts",
+            "dateStats": "Statistiques par dates du ",
+            "to": " au ",
+            "dataDisplayedFor": "Données affichées pour le ",
+            "historicalData": "Données historiques",
+            "fourteenDays": "14 jours",
+            "oneMonth": "30 jours",
+            "total": "Total",
+            "updatedAt": "Mis à jour",
+            "neverUpdated": "Jamais",
+            "source": "Esri Canada"
+        },
+        "yourActivity": {
+            "title":"Mon activité",
+            "subtitle":"À venir : voyez votre contribution personnelle à la résolution de la crise de la Covid-19.",
+            "bubbleText":"Nous avons besoin de plus d’utilisateurs pour activer cette fonctionalité. Partagez pour aider.",
+            "shareLabel":"Partager"
+        },
+        "actions": {
+            "actionsTitle": "Que puis-je faire ?",
+            "selfDiagnosticTitle": "Autodépistage",
+            "selfDiagnosticSubtitle": "Avez-vous des symptômes ?",
+            "diagnosticTitle": "Autodépistage",
+            "diagnosticSubtitle": "Avez-vous passé un test de dépistage de la Covid-19 ?"
+        }
+    },
+    "myHealth": {
+        "title": "Santé",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    "profile": {
+        "title": "Paramètres",
+        "profile": "Profil",
+        "privacy": "Vie privée",
+        "genderField": "Âge",
+        "languageField": "Langue",
+        "provinceField":"Province",
+        "regionField":"Région"
+    },
+    "profileIncomplete": {
+        "explanation": "Vos données ne peuvent être partagées car vous n'avez pas complété l'âge dans votre profile.",
+        "completeProfile": "Compléter mon profil"
+    },
+    "ageConsent": {
+        "ageConsentExplanation": "Vos informations ne peuvent pas être partagées avec COVI Canada parce que vous avez moins de 19 ans.",
+        "iTurned19Recently": "J'ai eu 19 ans récemment",
+        "ageConsentTitle": "Âge de consentement",
+        "turned19Recently": "Avez-vous eu 19 ans dernièrement?"
+    },
+    "privacy": {
+        "pushNotifications": "Accepter les notifications",
+        "bluetoothServices": "Activer le bluetooth",
+        "locationServices": "Autoriser la localisation",
+        "locationServicesDialog": "COVI Canada utilise la localisation pour le traçage communautaire. Sans les services de localisation, COVI ne peut pas vous montrer des informations selon votre région.",
+        "anonymousMilaShare": "Partagez vos informations avec COVI Canada  afin d’améliorer les conseils et aider la santé publique à prévenir des éclosions du virus.",
+        "privacyPolicy1": "Veuillez lire notre politique de protection de la vie privée",
+        "privacyPolicy2": " pour savoir comment les données servent à lutter contre la Covid-19.",
+        "deleteDataButton": "Supprimer toutes mes données",
+        "deleteDataMessage": "Vous avez demandé que vos données soient supprimées de votre téléphone et de toutes les sources. Cette suppression sera effectuée dans les 30 prochains jours. Cette demande ne peut pas être annulée.",
+        "deleteDataWarning": "Voulez-vous vraiment supprimer vos données ?",
+        "deleteDataYes": "Oui, supprimez mes\ndonnées.",
+        "modifiedAge": "Âge",
+        "modifiedGender": "Genre",
+        "modifiedHousehold": "Ménage",
+        "modifiedLanguage": "Langue",
+        "modifiedProvince": "Province",
+        "modifiedRegion": "Région",
+        "modifiedReceivePushNotifications": "Accepter les notification",
+        "modifiedAllowLocationServices": "Autoriser la localisation",
+        "modifiedAllowBluetoothServices": "Activer le bluetooth",
+        "modifiedAnonymousMILADataShare": "Partager mes données non identificatoires avec COVI Canada",
+        "from": "de",
+        "to": "à",
+        "saveDataMessage": "Vous avez modifié vos paramètres.",
+        "saveDataWarning": "Souhaitez-vous sauvegarder vos modifications avant de quitter ?",
+        "uncompletedChanges": "Vous avez des changements non complétés dans vos paramètres.",
+        "backWarning": "Êtes-vous certain de vouloir retourner à votre tableau de bord ?"
+    },
+    "recommendations": {
+        "title": "Conseils\npersonnalisés",
+        "subtitle": "Voici quelques conseils personnalisés en fonction de votre localisation, de vos données non identificatoires et de votre profil.",
+        "publicHealthRecommendations": "Santé publique",
+        "wellBeingRecommendations": "Bien-être",
+        "resources": "Ressources",
+        "seeAllOfficialResources": "Consulter les sources\n d’information officielles",
+        "call911Explanation": "Vos symptômes requièrent une évaluation immédiate par un professionnel de la santé.",
+        "didYouMakeAMistake": "Avez-vous fait une erreur?",
+        "reSelfAssessExplanation": "Si vous avez fait une erreur lorsque que vous avez entré vos symptômes, cliquez ci-bas pour refaire le questionnaire.",
+        "updateSource":{
+            "W001":"Vos conseils personnalisés ont été mis à jour en fonction <b>de votre profil santé.</b>",
+            "W002":"Vos conseils personnalisés ont été mis à jour en fonction <b>des symptômes entrés lors de votre autoévaluation.</b>",
+            "W003":"Vos conseils personnalisés ont été mis à jour en fonction <b>des résultats de votre test de la Covid-19.</b>",
+            "W004":"Vos conseils personnalisés ont été mis à jour en fonction <b>de vos interactions avec les autres utilisateurs de COVI au cours des deux dernières semaines.</b>",
+            "W005":"Vos conseils personnalisés ont été mis à jour en fonction <b>de vos résultats du test de la Covid-19 et des symptômes entrés lors de votre autoévaluation.</b>",
+            "W006":"Vos conseils personnalisés ont été mis à jour en fonction <b>de votre profil santé et contacts potentiels avec des personnes infectées.</b>",
+            "W007":"Vos conseils personnalisés ont été mis à jour en fonction <b>de votre profil santé, contacts potentiels avec des personnes infectées et symptômes entrés lors de votre autoévaluation.</b>"
+        }
+    },
+    "resources": {
+        "title": "Ressources",
+        "officialDocumentation": "Information gouvernementale officielle",
+        "documents": {
+            "covidGrouping": {
+                "title": "Maladie à coronavirus (Covid-19)",
+                "doc1Title": "Qu'est-ce que la Covid-19?",
+                "doc1URL": "https://www.canada.ca/fr/sante-publique/services/publications/maladies-et-affections/a-propos-maladie-coronavirus-covid-19.html",
+                "doc2Title": "Symptômes et traitement",
+                "doc2URL": "https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/symptomes.html",
+                "doc3Title": "Covid-19 : préparation",
+                "doc3URL": "https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/preparation.html",
+                "doc4Title": "Prévention et risques",
+                "doc4URL": "https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques.html",
+                "doc5Title": "Les populations vulnérables",
+                "doc5URL": "https://www.canada.ca/fr/sante-publique/services/publications/maladies-et-affections/populations-vulnerables-covid-19.html",
+                "doc6Title": "Mise à jour sur l'éclosion",
+                "doc6URL": "https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus.html",
+                "doc7Title": "Sources d'information fiables",
+                "doc7URL": "https://ca.thrive.health/covid19app/resources/b16994c8-65dd-4bcb-a1ed-ca5b42fb8861",
+                "doc8Title": "Foire aux questions",
+                "doc8URL": "https://ca.thrive.health/covid19app/resources/adefb3c9-4d05-4231-89ec-0400fc7dfc2a",
+                "doc9Title": "Où demander de l'aide",
+                "doc9URL": "https://ca.thrive.health/covid19app/resources/8ea050a5-0f6d-40ac-8b1f-48d4cc5e3477"
+            },
+            "socialDistancingGrouping": {
+                "title": "Distanciation physique",
+                "doc1Title": "Distanciation physique : actions pour réduire la propagation de la Covid-19",
+                "doc1URL": "https://www.canada.ca/fr/sante-publique/services/publications/maladies-et-affections/eloignement-physique.html"
+            },
+            "canadaResponseGrouping": {
+                "title": "Réponse du Canada",
+                "doc1Title": "Plan d'intervention économique du Canada pour répondre à la Covid-19",
+                "doc1URL": "https://www.canada.ca/fr/ministere-finances/plan-intervention-economique.html",
+                "doc2Title": "Information pour l'industrie",
+                "doc2URL": "https://www.canada.ca/fr/ministere-finances/plan-intervention-economique.html#industries",
+                "doc3Title": "Information pour les entreprises",
+                "doc3URL": "https://www.canada.ca/fr/ministere-finances/plan-intervention-economique.html#entreprises",
+                "doc4Title": "Information pour les employés",
+                "doc4URL": "https://www.canada.ca/fr/gouvernement/fonctionpublique/covid-19.html",
+                "doc5Title": "Information pour les professionnels de la santé",
+                "doc5URL": "https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/professionnels-sante.html"
+            },
+            "travelAdviceGrouping": {
+                "title": "Conseils aux voyageurs",
+                "doc1Title": "Voyageurs de retour au Canada",
+                "doc1URL": "https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/derniers-conseils-sante-voyageurs.html#arrivant",
+                "doc2Title": "Voyageurs au Canada",
+                "doc2URL": "https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/derniers-conseils-sante-voyageurs.html#voyage",
+                "doc3Title": "Voyageurs qui quittent le Canada",
+                "doc3URL": "https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/derniers-conseils-sante-voyageurs.html#_Voyageurs_qui_quittent",
+                "doc4Title": "Conseil de santé aux voyageurs",
+                "doc4URL": "https://voyage.gc.ca/voyager/sante-securite/conseils-sante-voyageurs/221?_ga=2.63940399.1048000827.1586531434-447952022.1586531433",
+                "doc5Title": "Avertissement officiel aux voyageurs",
+                "doc5URL": "https://voyage.gc.ca/voyager/avertissements?_ga=2.15639350.1048000827.1586531434-447952022.1586531433"
+            }
+        }
+    },
+    "a11y": {
+        "header1": "Titre de niveau 1",
+        "header2": "Titre de niveau 2",
+        "header3": "Titre de niveau 3",
+        "header4": "Titre de niveau 4",
+        "externalLink": "Ce lien s'ouvrira dans une nouvelle fenêtre",
+        "tapToApply": "Appuyez pour appliquer",
+        "tapToAccept": "Appuyez pour accepter",
+        "tapToRefuse": "Appuyez pour refuser",
+        "tapToSelect": "Appuyez pour sélectionner",
+        "selected": "Sélectionné",
+        "tapToSelectOption": "Appuyez pour sélectionner une option",
+        "tapToUnselect": "Appuyez pour désélectionner",
+        "tapToOpen": "Section fermée, appuyer pour ouvrir",
+        "tapToClose": "Section ouverte, appuyer pour fermer",
+        "tapToChooseDate": "Appuyez pour choisir une date",
+        "additionalQuestions": "Cette réponse affiche des questions supplémentaires",
+        "hideAdditionalQuestions": "Cette réponse masque des questions supplémentaires",
+        "pleaseChooseAnswer": "Veuillez choisir une réponse.",
+        "savingDisabled": "Vous ne pouvez enregistrer pour l'instant, car le formulaire comporte des erreurs."
+    },
+    "mainRecommendations": {
+        "C001": {
+            "title": "Présentez-vous à l'urgence.\nAppelez le 911.",
+            "detail": "",
+            "label": "Comprendre pourquoi",
+            "a11yLabel": " vous devriez vous présenter à l'urgence"
+        },
+        "C002": {
+            "title": "Appelez  votre médecin.\nIsolez-vous.",
+            "detail": "Voici les comportements les plus importants à observer pour vous protéger, vous et vos proches:",
+            "label": "En savoir plus",
+            "a11yLabel": " sur les conseils"
+        },
+        "C003": {
+            "title": "Isolez-vous.\nÉvaluez vos symptômes.\nRespectez la distanciation sociale.",
+            "detail": "Voici les comportements les plus importants à observer pour vous protéger, vous et vos proches:",
+            "label": "En savoir plus",
+            "a11yLabel": " sur les conseils"
+        },
+        "C004": {
+            "title": "Mettez-vous en quarantaine.\nÉvaluez vos symptômes.\nRespectez la distanciation sociale.",
+            "detail": "Voici les comportements les plus importants à observer pour vous protéger, vous et vos proches:",
+            "label": "En savoir plus",
+            "a11yLabel": " sur les conseils"
+        },
+        "C005": {
+            "title": "Mettez-vous en quarantaine.\nÉvaluez vos symptômes.\nRespectez la distanciation sociale.",
+            "detail": "Voici les comportements les plus importants à observer pour vous protéger, vous et vos proches:",
+            "label": "En savoir plus",
+            "a11yLabel": " sur les conseils"
+        },
+        "C006": {
+            "title": "Restez à la maison.\nLavez-vous les mains.\nRespectez la distanciation sociale.",
+            "detail": "Voici les comportements les plus importants à observer pour vous protéger, vous et vos proches:",
+            "label": "En savoir plus",
+            "a11yLabel": " sur les conseils"
+        },
+        "C007": {
+            "title": "Isolez-vous.\nÉvaluez vos symptômes.\nRespectez la distanciation sociale.",
+            "detail": "Voici les comportements les plus importants à observer pour vous protéger, vous et vos proches:",
+            "label": "En savoir plus",
+            "a11yLabel": " sur les conseils"
+        },
+        "C008": {
+            "title": "Appelez votre médecin.\nSurveillez vos symptômes.\nIsolez-vous.",
+            "detail": "Voici les comportements les plus importants à observer pour vous protéger, vous et vos proches:",
+            "label": "En savoir plus",
+            "a11yLabel": " about the recommandations"
+        }
+    },
+    "singularRecommendations": {
+        "R001": {
+            "title": "Composez le 911",
+            "content": "<p>Veuillez composer le 911 ou rendez-vous directement à l’urgence la plus proche.</p><p>Ces symptômes exigent une attention immédiate.</p>",
+            "explanation":"<p>Vous avez des symptômes graves.</p>"
+        },
+        "R002": {
+            "title": "Appelez un professionnel de la santé",
+            "content": "<p>Consultez un professionnel de la santé ou appelez Info-Santé. Numéros de télésanté provinciaux et territoriaux:</p><ul><li>Si vous habitez en Alberta, en Colombie-Britannique, à Terre-Neuve-et-Labrador, au Nouveau-Brunswick, en Nouvelle-Écosse, à l’Île-du-Prince-Édouard, au Québec, en Saskatchewan ou au Yukon, composez le 811.</li><li>Pour le Manitoba, composez le 204 788-8200 à Winnipeg ou le numéro sans frais 1 888 315-9257.</li><li>Pour les Territoires du Nord Ouest, visitez le site du gouvernement des Territoires du Nord-Ouest <a href='https://www.hss.gov.nt.ca/fr/services/maladie-%C3%A0-coronavirus-covid-19/conseils-aux-r%C3%A9sidents-des-tno'>ici</a>.</li><li>Pour le Nunavut, appelez votre fournisseur de soins de santé local.</li><li>Pour l’Ontario, composez le 1 866 797-0000.</li></ul>",
+            "explanation":"<p>Vous avez des symptômes correspondant à ceux de la Covid-19.</p>"
+        },
+        "R003": {
+            "title": "Mettez-vous en quarantaine pour 14 jours",
+            "content": "<p>Protégez votre santé et celle des autres en restant chez vous pendant 14 jours.</p><ul><li>Ne sortez que si vous avez besoin de soins médicaux.</li><li>Prenez des dispositions pour que votre épicerie et autres fournitures soient déposées à votre porte afin de réduire au minimum les contacts avec les autres.</li><li>Si vous avez voyagé à l’étranger au cours des 14 derniers jours, cette quarantaine est.<strong>obligatoire</strong>.</li></ul>",
+            "explanation":"<p>Vous pourriez avoir été exposé(e) à la Covid-19 parce que vous avez été en contact avec une personne atteinte et/ou vous avez voyagé à l’extérieur du Canada au cours des 14 derniers jours.</p>"
+        },
+        "R004": {
+            "title": "Isolez-vous pour protéger la santé des autres",
+            "content": "<p>Restez à la masion <strong>et</strong> isolez-vous:</p><ul><li>Ne quittez pas votre domicile, sauf pour des soins médicaux.</li><li>Évitez le transport en commun.</li><li>Prenez des dispositions pour que votre épicerie et autres fournitures soient déposées à votre porte afin de réduire au minimum les contacts avec autrui.</li></ul>",
+            "explanation":"<p>Vous avez des symptômes correspondant à ceux de la Covid-19.</p>"
+        },
+        "R005": {
+            "title": "Isolez-vous pour protéger votre santé",
+            "content": "<p>Pour protéger votre santé, restez chez vous <strong>et</strong> ne vous approchez pas d’autrui. Cela signifie:</p><ul><li>ne quittez pas votre domicile, sauf pour vous faire soigner;</li><li>prenez des dispositions pour que votre épicerie et vos autres fournitures soient déposées à votre porte afin de réduire au minimum les contacts avec autrui.</li></ul>",
+            "explanation":"<p>Vous êtes considéré(e) comme étant à plus haut risque puisque vous avez 60 ans ou plus.</p>"
+        },
+        "R006": {
+            "title": "Protégez les personnes qui vivent avec vous",
+            "content": "<ul><li>Ne recevez pas de visiteurs chez vous.</li><li>Restez seul(e) dans une pièce de votre domicile aussi souvent que possible et fermez la porte.</li><li>Mangez et dormez seul(e) dans cette piece.</li><li>Si possible, utilisez une salle de bain réservée à votre seul usage. Sinon, désinfectez-la après chaque usage.</li><li>Évitez autant que possible tout contact avec les autres personnes avec qui vous vivez. Si possible, portez un masque. Si vous ne disposez pas d’un masque, restez à au moins 2 mètres des autres.</li><li>Utilisez des mouchoirs jetables lorsque vous toussez, vous vous mouchez ou vous éternuez.</li><li>Jetez ces mouchoirs à la poubelle et lavez-vous les mains à l’eau et au savon pendant 20 secondes.</li></ul>",
+            "explanation":"<p>Vous avez des symptômes correspondant à ceux de la Covid-19.</p>"
+        },
+        "R007": {
+            "title": "Protégez les plus vulnérables",
+            "content": "<p>Évitez tout contact avec des personnes souffrant de maladies chroniques (diabète, maladie cardiaque, problèmes pulmonaires), dont le système immunitaire est affaibli ou qui sont âgées (60 ans ou plus).</p>",
+            "explanation":"<p>Pratiques exemplaires générales</p>"
+        },
+        "R008": {
+            "title": "Auto-évaluez vos symptômes",
+            "content": "<p>Servez-vous de l’outil d’autoévaluation chaque fois que vos symptômes changent. Composez le 911 immédiatement si vos symptômes sont graves.</p><p>Veuillez ne pas vous rendre à l’urgence, chez un médecin de famille ou dans une clinique sans rendez-vous, à moins que vos symptômes ne soient graves. Si vous devez vous y rendre, téléphonez à l’avance pour leur faire part de vos symptômes, leur indiquer si vous avez voyagé à l’étranger au cours des 14 derniers jours et les aviser si vous avez été en contact étroit avec une personne chez qui la Covid-19 est possible ou confirmée.</p>",
+            "explanation": "<p>Vous avez des symptômes correspondant à ceux de la Covid-19.</p>"
+        },
+        "R009": {
+            "title": "Appelez votre superviseur ou les autorités de santé publiques",
+            "content": "<p>En tant que professionnel de la santé, vous êtes en première ligne de nos efforts contre la COVID-19. Pour assurer votre sécurité et celle d’autrui, veuillez appeler votre superviseur pour obtenir des directives et des conseils supplémentaires.</p>",
+            "explanation":"<p>Vous êtes un professionnel de santé présentant des symptômes ou vous avez reçu une recommandation d’isolement ou de quarantaine.</p>"
+        },
+        "R010": {
+            "title": "Restez à la maison",
+            "content": "<p>La majorité des Canadiens suivent les directives ci-bas. Afin de vous protéger et limiter la propagation du virus: </p><ul><li>ne quittez votre domicile que pour vous procurer les produits essentiels;</li><li>restez chez vous, sauf si vous devez aller travailler;</li><li>parlez à votre employeur de la possibilité de travailler à domicile</li></ul>",
+            "explanation":"<p>Pratiques exemplaires générales</p>"
+        },
+        "R011": {
+            "title": "Respectez de bonnes pratiques d’hygiène",
+            "content": "<p>Les bonnes pratiques d’hygiène réduisent la propagation du virus:</p><ul><li>Lavez-vous souvent les mains à l’eau et au savon pendant au moins 20 secondes, en particulier à votre retour à la maison ou après avoir touché des surfaces fréquemment utilisées comme les robinets, les claviers ou les poignées de porte;</li><li>Utilisez un désinfectant pour les mains à base d’alcool (60% minimum)si vous n’avez pas accès à de l’eau et à du savon;</li><li>Toussez ou éternuez dans un mouchoir ou dans le creux de votre bras;</li><li>Jetez le plus rapidement possible les mouchoirs que vous avez utilisés dans une poubelle et lavez-vous ensuite les mains;</li><li>Évitez de vous toucher les yeux, le nez ou la bouche lorsque vos mains ne sont pas fraîchement lavées.</li></ul>",
+            "explanation":"<p>Pratiques exemplaires générales</p>"
+        },
+        "R012": {
+            "title": "Pratiquez la distanciation physique (sociale)",
+            "content": "<p>La majorité des citoyens pratiquent la distanciation physique (sociale). Même si vous ne présentez pas de symptômes de la COVID-19, vous devez rester chez vous autant que possible. </p><ul><li>Parlez à votre employeur de la possibilité de travailler à domicile.</li><li>Évitez tout déplacement non essentiel.</li><li>Ne vous réunissez pas en groupe.</li><li>Limitez les contacts avec les personnes à haut risque (par exemple, les personnes âgées ou en mauvaise santé).</li><li>Si vous quittez votre domicile, tenez-vous toujours à une distance d’au moins 2 mètres des autres, soit 2 longueurs de bras.</li><li>Portez un masque lorsque la distanciation physique (sociale) est difficile.</li><li>Les personnes avec lesquelles vous habitez n’ont pas besoin de s’éloigner les unes des autres, sauf si elles sont malades ou si elles ont voyagé à l’extérieur du Canada au cours des 14 derniers jours.</li></ul>",
+            "explanation":"<p>Pratiques exemplaires générales</p>"
+        },
+        "R013": {
+            "title": "Sortez marcher",
+            "content": "<p>Les marches peuvent être bénéfiques pour votre santé physique et mentale. Vous pouvez aller marcher si vous :</p><ul><li>n’avez pas reçu de diagnostic positif de la Covid-19;</li><li>ne présentez pas de symptômes de la Covid-19;</li><li>n’avez pas voyagé à l’extérieur du Canada au cours des 14 derniers jours.</li></ul><p>Si vous sortez faire une marche, ne vous rassemblez pas et pratiquez toujours une distanciation physique (sociale) en vous tenant à au moins 2 mètres des autres.</p>",
+            "explanation":"<p>Pratiques exemplaires générales</p>"
+        },
+        "R014": {
+            "title": "Effectuez votre auto-évaluation si vos symptômes changent",
+            "content": "<p>Servez-vous de l’outil d’auto-évaluation chaque fois que vous sentez que vos symptômes changent. <strong>Composez le 911 immédiatement</strong> si vous avez:</p><ul><li>De la difficulté à respirer</li><li>Des douleurs thoraciques</li><li>Du mal à vous réveiller</li><li>De la confusion</li><li>Des évanouissements</li></ul><p>Il n’est pas nécessaire de vous rendre à l’urgence, chez un médecin de famille ou dans une clinique sans rendez-vous, à moins que vos symptômes ne deviennent graves. Si vous devez vous y rendre, veuillez téléphoner à l’avance pour leur faire part de vos symptômes, leur indiquer si vous avez voyagé à l’étranger au cours des 14 derniers jours et les aviser si vous avez été en contact étroit avec une personne chez qui la Covid-19 est possible ou confirmée.</p>",
+            "explanation":"<p>Pratiques exemplaires générales</p>"
+        },
+        "WR001": {
+            "title": "Prenez du temps pour relaxer",
+            "content": "<p>Prenez le temps de profiter des petits plaisirs de la vie, comme écouter de la musique, lire un bon livre ou faire des activités agréables à partir de la maison.</p>",
+            "explanation": ""
+        },
+        "WR002": {
+            "title": "Restez en contact avec votre entourage",
+            "content": "<p>Le maintien des liens sociaux est primordial dans un contexte d'isolement et de stress accru. Prenez contact avec votre famille et vos amis via téléphone, par messagerie texte ou vidéo.</p>",
+            "explanation": ""
+        }
+    },
+    "actions": {
+        "actionCards": {
+            "AC001": {
+                "category": "Autoévaluation",
+                "title": "Avez-vous des symptômes ?"
+            },
+            "AC002": {
+                "category": "Autoévaluation",
+                "title": "Avez-vous passé un test de dépistage de la Covid-19 ?"
+            },
+            "AC003": {
+                "category": "Configuration",
+                "title": "Autorisez les notifications afin d'améliorer votre expérience"
+            },
+            "AC004": {
+                "category": "Configuration",
+                "title": "Activez le bluetooth pour que COVI fonctionne"
+            },
+            "AC005": {
+                "category": "Personnalisation",
+                "title": "Répondez à des questions sur votre vie quotidienne"
+            },
+            "AC006": {
+                "category": "Bilan de santé",
+                "title": "Mettez à jour votre profil santé pour des conseils personnalisés "
+            },
+            "AC007": {
+                "category": "Information",
+                "title": "Votre santé au-delà de la COVID-19"
+            },
+            "AC008": {
+                "category": "Profil",
+                "title": "Mettez à jour votre profil pour des conseils personnalisés"
+            },
+            "AC009": {
+                "category": "Bilan de santé",
+                "title": "Call your healthcare provider"
+            }
+        },
+        "testResult": {
+            "title": "Résultats de test",
+            "subtitle": "En partageant vos résultats de test, vous aidez à protéger les autres par la mise à jour de leur niveau de risque personnel et leurs conseils.",
+            "formTitle": "Entrez le résultat de votre test de dépistage de la Covid-19",
+            "symptomsBeganDateLabel": "Mes symptômes sont apparus le :",
+            "testDateLabel": "La date de mon test :",
+            "dateError": "Veuillez choisir une date",
+            "question": "Le résultat de mon test :",
+            "positive": "Positif",
+            "or": "ou",
+            "negative": "Négatif",
+            "acknowledgmentStart": "Je confirme que j’ai reçu un résultat ",
+            "acknowledgmentEnd": " à un test de dépistage officiel de la Covid-19.",
+            "acknowledgmentLabel": "Tapez OUI pour confirmer.",
+            "acknowledgmentError": "Veuillez taper OUI pour confirmer.",
+            "shareLabel": "Je souhaite partager mon résultat avec l’application pour aider à protéger les autres et limiter la propagation du virus."
+        },
+        "selfDiagnostic": {
+            "title": "Comment vous sentez-vous ?",
+            "subtitle": "L’application peut vous aider à agir si vous ressentez des symptômes.",
+            "stillSymptomsTitle":"Ressentez-vous toujours ces symptômes ?",
+            "stillSymptomsSubtitle":"En décochant un symptôme, vous indiquez que vous ne ressentez plus ce symptôme.",
+            "formTitle": "Autoévaluation",
+            "symptomsLabel": "Ressentez-vous de nouveaux symptômes ?",
+            "dateFieldHeader": "Depuis quand ?",
+            "dateFieldLabel": "Date",
+            "dateFieldErrorLabel": "Veuillez entrer une date.",
+            "newSymptomsTitle": "Quels nouveaux symptômes ressentez-vous ?",
+            "newSymptomsSubtitle": "En cochant un symptôme, vous indiquez que vous le ressentez.",
+            "difficultyBreathing": "Difficulté à respirer",
+            "difficultyBreathingChoicesHeader": "Comment décririez-vous ce symptôme ?",
+            "lightChoiceLabel": "Léger",
+            "lightChoiceDescription": "Je peux encore faire mes activités habituelles sans problème.",
+            "moderateChoiceLabel": "Léger à Modéré",
+            "moderateChoiceDescription": "Je ne peux pas faire mes activités habituelles, gérer mes problèmes de santé chroniques, ou m’allonger sans être à bout de souffle.",
+            "heavyChoiceLabel": "Grave",
+            "heavyChoiceDescription": "Je suis incapable de terminer une phrase sans m’arrêter.",
+            "severeChestPain": "Douleurs thoraciques intenses",
+            "hardTimeWakingUp": "Avoir du mal à se réveiller",
+            "feelingConfused": "Se sentir confus",
+            "lostConsciousness": "Évanouissement",
+            "lossOfSmell": "Perte soudaine de l’odorat ou du goût",
+            "lossOfAppetite": "Perte d’appétit",
+            "sneezing": "Éternuements",
+            "fever": "Fièvre (37.6°C ou plus)",
+            "cough": "Toux",
+            "muscleAches": "Douleurs musculaires",
+            "fatigue": "Fatigue",
+            "headaches": "Mal de tête",
+            "soreThroat": "Mal de gorge",
+            "runnyNose": "Nez qui coule",
+            "nausea": "Nausées ou vomissements",
+            "diarrhea": "Diarrhée",
+            "chills": "Frissons"
+        },
+        "healthCheck": {
+            "title": "Bilan de santé",
+            "subtitle": "Prenez un instant pour évaluer si votre état de santé a changé récemment.",
+            "formTitle": "Les renseignements suivants sont-ils à jour ?"
+        },
+        "additionnalQuestions": {
+            "title": "La vie au quotidien",
+            "subtitle": "Comprendre votre vie quotidienne permet à l’application d’ajuster votre niveau de risque et vos conseils.",
+            "formTitle": "Travail",
+            "atWorkContact": "Au travail, vous êtes en contact avec :",
+            "hasHouseholdContact": "Uniquement des personnes de votre ménage (e.g. vous travaillez de la maison)",
+            "hasFewPeopleContact": "Quelques mêmes personnes (e.g. vous travaillez dans un petit bureau)",
+            "hasManyPeopleContact": "De nombreuses personnes différentes (e.g. vous travaillez dans un grand bureau ou comme commis, serveur ou livreur)",
+            "wearMaskAtWork": "Portez-vous un masque au travail ?",
+            "workWithProtectiveScreen": "Travaillez-vous derrière un écran de protection (par exemple en verre ou en plexiglas) ?",
+            "washingHandsOutside": "Vous lavez-vous les mains régulièrement ou utilisez-vous du désinfectant lorsque vous êtes à l’extérieur de la maison?",
+            "washHandsReturningHome": "Vous lavez-vous les mains ou utilisez-vous du désinfectant lorsque vous rentrez à la maison et/ou après être entré en contact avec des gens qui ne vivent pas avec vous ?",
+            "takePublicTransportation": "Utilisez-vous les transports en commun ?",
+            "lastPublicTransportation": "Quand avez-vous utilisé les transports en commun pour la dernière fois ?",
+            "typeOfPublicTransportation": "Quel moyen de transport en commun avez-vous utilisé? (autobus, taxi, train, métro, etc.)",
+            "typeOfPublicTransportationError": "Veuillez choisir un type de transport",
+            "bus": "Autobus",
+            "metro": "Métro",
+            "train": "Train",
+            "taxiRideSharing": "Taxi ou service de covoiturage (Uber, Lyft, Eva, etc.)",
+            "timeUsingPublicTransit": "Combien de fois avez-vous utilisé les transports en commun au cours des 7 derniers jours ? (Un aller-retour compte pour deux déplacements).",
+            "inputFieldError": "Veuillez écrire votre réponse"
+        },
+        "getTested": {
+            "title": "Passez un test de la Covid-19",
+            "subtitle": "Vos symptômes s'apparentent à ceux de la maladie de la Covid-19 ou de la siCOVIr. Allez passer un test dès maintenant.",
+            "callHealthcarePro": "Appelez un professionnel de la santé",
+            "explanations": "Si vos symptômes s'aggravent, contactez immédiatement votre fournisseur de soins de santé ou les autorités de santé publique et suivez leurs instructions.",
+            "governmentWebsiteLink": "Visitez le site Web du Gouvernement pour savoir où appeler"
+        }
+    },
+    "updates": {
+        "title": "Une mise-à-jour est disponible!",
+        "version_available": "La nouvelle version disponible est {version_name}.",
+        "current_version": "Vous utilisez en ce moment la version {version_name}.",
+        "changelog": "Voici la liste des nouveautés:"
+    },
+    "notifications": {
+        "N001": {
+            "title": "Bluetooth non activé",
+            "body": "Activez le bluetooth afin que COVI puisse évaluer votre niveau de risque personnel d'être infecté par le virus."
+        },
+        "N002": {
+            "title": "Processus d'activation non complété",
+            "body": "COVI n’est pas encore activée. Complétez le processus d’activation afin que l'application fonctionne."
+        },
+        "N003": {
+            "title": "Autoévaluation",
+            "body": "Vous avez commencé à vous sentir malade il y a {days} jours. Comment vous sentez-vous aujourd’hui ?"
+        },
+        "N006": {
+            "title": "Autoévaluation",
+            "body": "Cela fait une semaine depuis la dernière évaluation de vos symptômes. Comment vous sentez-vous aujourd’hui ?"
+        },
+        "N007" : {
+            "title": "CHANGE MOI",
+            "body": "CHANGE MOI : l'application Covi est fermée"
+        }
+    }
+}

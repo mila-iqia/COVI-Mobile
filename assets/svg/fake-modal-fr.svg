@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="239px" height="171px" viewBox="0 0 239 171" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="201.159999" height="134.42" rx="11.28"></rect>
+        <filter x="-14.2%" y="-21.2%" width="128.3%" height="142.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Maquettes-graphiques" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3" transform="translate(-41.000000, -256.000000)">
+            <g id="Group-4" transform="translate(43.000000, 213.000000)">
+                <g id="Group-3" transform="translate(16.920000, 61.100000)">
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <path d="M0.469999999,97.2899998 L0.469999999,123.14 C0.469999999,129.110198 5.30980184,133.95 11.28,133.95 L100.11,133.95 L100.11,97.2899998 L0.469999999,97.2899998 Z" id="Rectangle" stroke="#E9EBEC" stroke-width="0.939999998"></path>
+                    <path d="M100.11,97.2899998 L100.11,133.95 L189.88,133.95 C195.850198,133.95 200.689999,129.110198 200.689999,123.14 L200.689999,97.2899998 L100.11,97.2899998 Z" id="Rectangle-Copy" stroke="#2E4E9E" stroke-width="0.939999998" fill="#EDF0F6"></path>
+                    <rect id="Rectangle" fill="#E9EBEC" x="44.1799999" y="29.1399999" width="114.68" height="7.51999998"></rect>
+                    <rect id="Rectangle-Copy-2" fill="#E9EBEC" x="33.8399999" y="45.1199999" width="135.36" height="7.51999998"></rect>
+                    <rect id="Rectangle-Copy-3" fill="#E9EBEC" x="44.1799999" y="61.0999998" width="114.68" height="7.51999998"></rect>
+                    <rect id="Rectangle-Copy-4" fill="#E9EBEC" x="24.4399999" y="111.86" width="52.6399999" height="7.51999998"></rect>
+                    <text id="Autoriser" font-family="NeueMontreal-Bold, Neue Montreal" font-size="13.16" font-weight="bold" letter-spacing="0.469999999" fill="#2E4E9E">
+                        <tspan x="119.8829" y="119.22">Autoriser</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

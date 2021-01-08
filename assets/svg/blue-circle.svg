@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="36px" viewBox="0 0 18 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Maquettes-graphiques" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6F" transform="translate(-16.000000, -554.000000)">
+            <g id="Group-Copy-5" transform="translate(16.000000, 523.000000)">
+                <g id="Oval-Copy-5">
+                    <g id="Group-2" transform="translate(-18.000000, 31.000000)">
+                        <g id="Group-3">
+                            <circle id="Oval" fill="#DDE4F6" cx="18" cy="18" r="18"></circle>
+                            <path d="M18.5,16 C17.1214,16 16,17.1214 16,18.5 C16,19.8786 17.1214,21 18.5,21 C19.8786,21 21,19.8786 21,18.5 C21,17.1214 19.8786,16 18.5,16 M18,29 C11.9347048,29 7,24.2896 7,18.5 C7,12.7104 11.9347048,8 18,8 C24.0652952,8 29,12.7104 29,18.5 C29,24.2896 24.0652952,29 18,29" id="Fill-1" fill="#2E4E9E"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

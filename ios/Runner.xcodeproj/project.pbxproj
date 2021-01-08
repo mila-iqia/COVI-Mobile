@@ -1,0 +1,1184 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 52;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1498D2341E8E89220040F4C2 /* GeneratedPluginRegistrant.m in Sources */ = {isa = PBXBuildFile; fileRef = 1498D2331E8E89220040F4C2 /* GeneratedPluginRegistrant.m */; };
+		3B3967161E833CAA004F5970 /* AppFrameworkInfo.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3B3967151E833CAA004F5970 /* AppFrameworkInfo.plist */; };
+		7213898924D09C1A00F86B82 /* BTLEListener.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7213898824D09C1A00F86B82 /* BTLEListener.swift */; };
+		7213898B24D0A0D700F86B82 /* BTLEBroadcaster.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7213898A24D0A0D700F86B82 /* BTLEBroadcaster.swift */; };
+		724D67D424D05943009EA68D /* Ble.swift in Sources */ = {isa = PBXBuildFile; fileRef = 724D67D324D05943009EA68D /* Ble.swift */; };
+		724D67DB24D08810009EA68D /* BluetoothNursery.swift in Sources */ = {isa = PBXBuildFile; fileRef = 724D67DA24D08810009EA68D /* BluetoothNursery.swift */; };
+		728681EF24D49774007405D0 /* ExtendedFlutterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 728681EE24D49774007405D0 /* ExtendedFlutterViewController.swift */; };
+		72FA6A3A24D1BAFD0090D8F5 /* CoreBluetoothExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72FA6A3924D1BAFD0090D8F5 /* CoreBluetoothExtensions.swift */; };
+		72FA6A3C24D1BD3D0090D8F5 /* BluetoothStateObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72FA6A3B24D1BD3D0090D8F5 /* BluetoothStateObserver.swift */; };
+		72FA6A4024D1C14E0090D8F5 /* EncounterEventRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72FA6A3F24D1C14E0090D8F5 /* EncounterEventRepository.swift */; };
+		72FA6A4324D1C2FB0090D8F5 /* EncounterEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72FA6A4224D1C2FB0090D8F5 /* EncounterEvent.swift */; };
+		72FA6A4524D1CB0D0090D8F5 /* BroadcastPayload.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72FA6A4424D1CB0D0090D8F5 /* BroadcastPayload.swift */; };
+		74858FAF1ED2DC5600515810 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74858FAE1ED2DC5600515810 /* AppDelegate.swift */; };
+		97C146FC1CF9000F007C117D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97C146FA1CF9000F007C117D /* Main.storyboard */; };
+		97C146FE1CF9000F007C117D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97C146FD1CF9000F007C117D /* Assets.xcassets */; };
+		97C147011CF9000F007C117D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97C146FF1CF9000F007C117D /* LaunchScreen.storyboard */; };
+		AE0C6AA624A6195D001B4C64 /* libsodium.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AE0C6AA524A6195D001B4C64 /* libsodium.a */; };
+		AE51CA912486F1F1001939E3 /* CoreBluetooth.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE51CA902486F1F1001939E3 /* CoreBluetooth.framework */; };
+		AE58D2512490105600618CCD /* AuthorizationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE58D2502490105600618CCD /* AuthorizationManager.swift */; };
+		AE58D2532490145000618CCD /* AuthorizationManaging.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE58D2522490145000618CCD /* AuthorizationManaging.swift */; };
+		AEA53FF824A63EBB00E331E3 /* CryptoSwift in Frameworks */ = {isa = PBXBuildFile; productRef = AEA53FF724A63EBB00E331E3 /* CryptoSwift */; };
+		AEC1BF5D2486FCA80005D295 /* PlistPersister.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC1BF5C2486FCA80005D295 /* PlistPersister.swift */; };
+		AEC1BF612487D0810005D295 /* Logging.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEC1BF602487D0810005D295 /* Logging.swift */; };
+		E5D451F5244F84CF00D66184 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E5D451F4244F84CF00D66184 /* GoogleService-Info.plist */; };
+		E9A11A9D59F2CAAFFDAE2F7E /* Pods_Runner.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 432AAAE43294F749E0FFF3D7 /* Pods_Runner.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		9705A1C41CF9048500538489 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		1498D2321E8E86230040F4C2 /* GeneratedPluginRegistrant.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GeneratedPluginRegistrant.h; sourceTree = "<group>"; };
+		1498D2331E8E89220040F4C2 /* GeneratedPluginRegistrant.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GeneratedPluginRegistrant.m; sourceTree = "<group>"; };
+		3B3967151E833CAA004F5970 /* AppFrameworkInfo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = AppFrameworkInfo.plist; path = Flutter/AppFrameworkInfo.plist; sourceTree = "<group>"; };
+		432AAAE43294F749E0FFF3D7 /* Pods_Runner.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Runner.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		448805197B7FEF3905E39C36 /* Pods-Runner.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.debug.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.debug.xcconfig"; sourceTree = "<group>"; };
+		7213898824D09C1A00F86B82 /* BTLEListener.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BTLEListener.swift; sourceTree = "<group>"; };
+		7213898A24D0A0D700F86B82 /* BTLEBroadcaster.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BTLEBroadcaster.swift; sourceTree = "<group>"; };
+		724D67D324D05943009EA68D /* Ble.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ble.swift; sourceTree = "<group>"; };
+		724D67DA24D08810009EA68D /* BluetoothNursery.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BluetoothNursery.swift; sourceTree = "<group>"; };
+		728681EE24D49774007405D0 /* ExtendedFlutterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtendedFlutterViewController.swift; sourceTree = "<group>"; };
+		72FA6A3924D1BAFD0090D8F5 /* CoreBluetoothExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreBluetoothExtensions.swift; sourceTree = "<group>"; };
+		72FA6A3B24D1BD3D0090D8F5 /* BluetoothStateObserver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BluetoothStateObserver.swift; sourceTree = "<group>"; };
+		72FA6A3F24D1C14E0090D8F5 /* EncounterEventRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EncounterEventRepository.swift; sourceTree = "<group>"; };
+		72FA6A4224D1C2FB0090D8F5 /* EncounterEvent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EncounterEvent.swift; sourceTree = "<group>"; };
+		72FA6A4424D1CB0D0090D8F5 /* BroadcastPayload.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BroadcastPayload.swift; sourceTree = "<group>"; };
+		74858FAD1ED2DC5600515810 /* Runner-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Runner-Bridging-Header.h"; sourceTree = "<group>"; };
+		74858FAE1ED2DC5600515810 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		7AFA3C8E1D35360C0083082E /* Release.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; name = Release.xcconfig; path = Flutter/Release.xcconfig; sourceTree = "<group>"; };
+		833BA9EDA07143745249E6FA /* Pods-Runner.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.release.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.release.xcconfig"; sourceTree = "<group>"; };
+		9740EEB21CF90195004384FC /* Debug.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = Debug.xcconfig; path = Flutter/Debug.xcconfig; sourceTree = "<group>"; };
+		9740EEB31CF90195004384FC /* Generated.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = Generated.xcconfig; path = Flutter/Generated.xcconfig; sourceTree = "<group>"; };
+		97C146EE1CF9000F007C117D /* Runner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Runner.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		97C146FB1CF9000F007C117D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		97C146FD1CF9000F007C117D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		97C147001CF9000F007C117D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		97C147021CF9000F007C117D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AE0C6A6624A618A4001B4C64 /* crypto_stream_salsa2012.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_stream_salsa2012.h; sourceTree = "<group>"; };
+		AE0C6A6724A618A4001B4C64 /* crypto_auth.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_auth.h; sourceTree = "<group>"; };
+		AE0C6A6824A618A4001B4C64 /* utils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = utils.h; sourceTree = "<group>"; };
+		AE0C6A6924A618A4001B4C64 /* crypto_core_hchacha20.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_core_hchacha20.h; sourceTree = "<group>"; };
+		AE0C6A6A24A618A4001B4C64 /* crypto_hash_sha512.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_hash_sha512.h; sourceTree = "<group>"; };
+		AE0C6A6B24A618A4001B4C64 /* core.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = core.h; sourceTree = "<group>"; };
+		AE0C6A6C24A618A4001B4C64 /* version.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = version.h; sourceTree = "<group>"; };
+		AE0C6A6D24A618A4001B4C64 /* export.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = export.h; sourceTree = "<group>"; };
+		AE0C6A6E24A618A4001B4C64 /* randombytes_salsa20_random.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = randombytes_salsa20_random.h; sourceTree = "<group>"; };
+		AE0C6A6F24A618A4001B4C64 /* crypto_core_salsa20.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_core_salsa20.h; sourceTree = "<group>"; };
+		AE0C6A7024A618A4001B4C64 /* crypto_shorthash_siphash24.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_shorthash_siphash24.h; sourceTree = "<group>"; };
+		AE0C6A7124A618A4001B4C64 /* randombytes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = randombytes.h; sourceTree = "<group>"; };
+		AE0C6A7224A618A4001B4C64 /* crypto_hash_sha256.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_hash_sha256.h; sourceTree = "<group>"; };
+		AE0C6A7324A618A4001B4C64 /* crypto_stream.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_stream.h; sourceTree = "<group>"; };
+		AE0C6A7424A618A4001B4C64 /* crypto_auth_hmacsha512.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_auth_hmacsha512.h; sourceTree = "<group>"; };
+		AE0C6A7524A618A4001B4C64 /* crypto_aead_xchacha20poly1305.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_aead_xchacha20poly1305.h; sourceTree = "<group>"; };
+		AE0C6A7624A618A4001B4C64 /* crypto_stream_salsa20.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_stream_salsa20.h; sourceTree = "<group>"; };
+		AE0C6A7724A618A4001B4C64 /* crypto_onetimeauth_poly1305.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_onetimeauth_poly1305.h; sourceTree = "<group>"; };
+		AE0C6A7824A618A4001B4C64 /* crypto_kx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_kx.h; sourceTree = "<group>"; };
+		AE0C6A7924A618A4001B4C64 /* crypto_hash.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_hash.h; sourceTree = "<group>"; };
+		AE0C6A7A24A618A4001B4C64 /* crypto_sign.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_sign.h; sourceTree = "<group>"; };
+		AE0C6A7B24A618A4001B4C64 /* crypto_kdf.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_kdf.h; sourceTree = "<group>"; };
+		AE0C6A7C24A618A4001B4C64 /* crypto_auth_hmacsha256.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_auth_hmacsha256.h; sourceTree = "<group>"; };
+		AE0C6A7D24A618A4001B4C64 /* crypto_box.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_box.h; sourceTree = "<group>"; };
+		AE0C6A7E24A618A4001B4C64 /* crypto_verify_32.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_verify_32.h; sourceTree = "<group>"; };
+		AE0C6A7F24A618A4001B4C64 /* crypto_stream_xchacha20.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_stream_xchacha20.h; sourceTree = "<group>"; };
+		AE0C6A8024A618A4001B4C64 /* crypto_core_salsa208.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_core_salsa208.h; sourceTree = "<group>"; };
+		AE0C6A8124A618A4001B4C64 /* crypto_auth_hmacsha512256.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_auth_hmacsha512256.h; sourceTree = "<group>"; };
+		AE0C6A8224A618A4001B4C64 /* crypto_aead_chacha20poly1305.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_aead_chacha20poly1305.h; sourceTree = "<group>"; };
+		AE0C6A8324A618A4001B4C64 /* randombytes_sysrandom.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = randombytes_sysrandom.h; sourceTree = "<group>"; };
+		AE0C6A8424A618A4001B4C64 /* runtime.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = runtime.h; sourceTree = "<group>"; };
+		AE0C6A8524A618A4001B4C64 /* crypto_stream_salsa208.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_stream_salsa208.h; sourceTree = "<group>"; };
+		AE0C6A8624A618A4001B4C64 /* crypto_aead_aes256gcm.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_aead_aes256gcm.h; sourceTree = "<group>"; };
+		AE0C6A8724A618A4001B4C64 /* crypto_core_salsa2012.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_core_salsa2012.h; sourceTree = "<group>"; };
+		AE0C6A8824A618A4001B4C64 /* crypto_secretbox_xchacha20poly1305.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_secretbox_xchacha20poly1305.h; sourceTree = "<group>"; };
+		AE0C6A8924A618A4001B4C64 /* crypto_scalarmult.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_scalarmult.h; sourceTree = "<group>"; };
+		AE0C6A8A24A618A4001B4C64 /* crypto_pwhash.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_pwhash.h; sourceTree = "<group>"; };
+		AE0C6A8B24A618A4001B4C64 /* crypto_verify_16.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_verify_16.h; sourceTree = "<group>"; };
+		AE0C6A8C24A618A4001B4C64 /* crypto_stream_chacha20.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_stream_chacha20.h; sourceTree = "<group>"; };
+		AE0C6A8D24A618A4001B4C64 /* crypto_stream_xsalsa20.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_stream_xsalsa20.h; sourceTree = "<group>"; };
+		AE0C6A8E24A618A4001B4C64 /* crypto_core_hsalsa20.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_core_hsalsa20.h; sourceTree = "<group>"; };
+		AE0C6A8F24A618A4001B4C64 /* crypto_kdf_blake2b.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_kdf_blake2b.h; sourceTree = "<group>"; };
+		AE0C6A9024A618A4001B4C64 /* crypto_scalarmult_curve25519.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_scalarmult_curve25519.h; sourceTree = "<group>"; };
+		AE0C6A9124A618A4001B4C64 /* crypto_shorthash.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_shorthash.h; sourceTree = "<group>"; };
+		AE0C6A9224A618A4001B4C64 /* crypto_pwhash_argon2id.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_pwhash_argon2id.h; sourceTree = "<group>"; };
+		AE0C6A9324A618A4001B4C64 /* crypto_secretstream_xchacha20poly1305.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_secretstream_xchacha20poly1305.h; sourceTree = "<group>"; };
+		AE0C6A9424A618A4001B4C64 /* crypto_pwhash_scryptsalsa208sha256.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_pwhash_scryptsalsa208sha256.h; sourceTree = "<group>"; };
+		AE0C6A9524A618A4001B4C64 /* crypto_sign_ed25519.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_sign_ed25519.h; sourceTree = "<group>"; };
+		AE0C6A9624A618A4001B4C64 /* crypto_onetimeauth.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_onetimeauth.h; sourceTree = "<group>"; };
+		AE0C6A9724A618A4001B4C64 /* crypto_verify_64.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_verify_64.h; sourceTree = "<group>"; };
+		AE0C6A9824A618A4001B4C64 /* crypto_box_curve25519xchacha20poly1305.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_box_curve25519xchacha20poly1305.h; sourceTree = "<group>"; };
+		AE0C6A9924A618A4001B4C64 /* crypto_core_ed25519.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_core_ed25519.h; sourceTree = "<group>"; };
+		AE0C6A9A24A618A4001B4C64 /* crypto_pwhash_argon2i.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_pwhash_argon2i.h; sourceTree = "<group>"; };
+		AE0C6A9B24A618A4001B4C64 /* crypto_generichash.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_generichash.h; sourceTree = "<group>"; };
+		AE0C6A9C24A618A4001B4C64 /* crypto_secretbox_xsalsa20poly1305.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_secretbox_xsalsa20poly1305.h; sourceTree = "<group>"; };
+		AE0C6A9D24A618A4001B4C64 /* crypto_secretbox.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_secretbox.h; sourceTree = "<group>"; };
+		AE0C6A9E24A618A4001B4C64 /* crypto_scalarmult_ed25519.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_scalarmult_ed25519.h; sourceTree = "<group>"; };
+		AE0C6A9F24A618A4001B4C64 /* crypto_box_curve25519xsalsa20poly1305.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_box_curve25519xsalsa20poly1305.h; sourceTree = "<group>"; };
+		AE0C6AA024A618A4001B4C64 /* crypto_generichash_blake2b.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_generichash_blake2b.h; sourceTree = "<group>"; };
+		AE0C6AA124A618A4001B4C64 /* crypto_sign_edwards25519sha512batch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypto_sign_edwards25519sha512batch.h; sourceTree = "<group>"; };
+		AE0C6AA524A6195D001B4C64 /* libsodium.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libsodium.a; sourceTree = "<group>"; };
+		AE51CA902486F1F1001939E3 /* CoreBluetooth.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreBluetooth.framework; path = System/Library/Frameworks/CoreBluetooth.framework; sourceTree = SDKROOT; };
+		AE58D2502490105600618CCD /* AuthorizationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthorizationManager.swift; sourceTree = "<group>"; };
+		AE58D2522490145000618CCD /* AuthorizationManaging.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AuthorizationManaging.swift; sourceTree = "<group>"; };
+		AEC1BF5C2486FCA80005D295 /* PlistPersister.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PlistPersister.swift; path = Classes/PlistPersister.swift; sourceTree = "<group>"; };
+		AEC1BF602487D0810005D295 /* Logging.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Logging.swift; sourceTree = "<group>"; };
+		E395D29F7EC048AE68A1172C /* Pods-Runner.profile.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.profile.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.profile.xcconfig"; sourceTree = "<group>"; };
+		E5BB1BAE244F802A00A7AF7A /* Runner.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Runner.entitlements; sourceTree = "<group>"; };
+		E5D451F4244F84CF00D66184 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		97C146EB1CF9000F007C117D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AE0C6AA624A6195D001B4C64 /* libsodium.a in Frameworks */,
+				AEA53FF824A63EBB00E331E3 /* CryptoSwift in Frameworks */,
+				AE51CA912486F1F1001939E3 /* CoreBluetooth.framework in Frameworks */,
+				E9A11A9D59F2CAAFFDAE2F7E /* Pods_Runner.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		724D67D224D0591F009EA68D /* Ble */ = {
+			isa = PBXGroup;
+			children = (
+				724D67D324D05943009EA68D /* Ble.swift */,
+				724D67DA24D08810009EA68D /* BluetoothNursery.swift */,
+				72FA6A3B24D1BD3D0090D8F5 /* BluetoothStateObserver.swift */,
+				7213898A24D0A0D700F86B82 /* BTLEBroadcaster.swift */,
+				7213898824D09C1A00F86B82 /* BTLEListener.swift */,
+				72FA6A3924D1BAFD0090D8F5 /* CoreBluetoothExtensions.swift */,
+				72FA6A4424D1CB0D0090D8F5 /* BroadcastPayload.swift */,
+			);
+			path = Ble;
+			sourceTree = "<group>";
+		};
+		72FA6A4124D1C2D00090D8F5 /* Encounters Events */ = {
+			isa = PBXGroup;
+			children = (
+				72FA6A4224D1C2FB0090D8F5 /* EncounterEvent.swift */,
+				72FA6A3F24D1C14E0090D8F5 /* EncounterEventRepository.swift */,
+			);
+			path = "Encounters Events";
+			sourceTree = "<group>";
+		};
+		77ED1A716216575E99395F71 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				AE51CA902486F1F1001939E3 /* CoreBluetooth.framework */,
+				432AAAE43294F749E0FFF3D7 /* Pods_Runner.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		9740EEB11CF90186004384FC /* Flutter */ = {
+			isa = PBXGroup;
+			children = (
+				3B3967151E833CAA004F5970 /* AppFrameworkInfo.plist */,
+				9740EEB21CF90195004384FC /* Debug.xcconfig */,
+				7AFA3C8E1D35360C0083082E /* Release.xcconfig */,
+				9740EEB31CF90195004384FC /* Generated.xcconfig */,
+			);
+			name = Flutter;
+			sourceTree = "<group>";
+		};
+		97C146E51CF9000F007C117D = {
+			isa = PBXGroup;
+			children = (
+				9740EEB11CF90186004384FC /* Flutter */,
+				97C146F01CF9000F007C117D /* Runner */,
+				97C146EF1CF9000F007C117D /* Products */,
+				9C8AC677F5275AF0F9F38CAB /* Pods */,
+				77ED1A716216575E99395F71 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		97C146EF1CF9000F007C117D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				97C146EE1CF9000F007C117D /* Runner.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		97C146F01CF9000F007C117D /* Runner */ = {
+			isa = PBXGroup;
+			children = (
+				AE0C6A6324A618A4001B4C64 /* libsodium-ios */,
+				AEC1BF5C2486FCA80005D295 /* PlistPersister.swift */,
+				AE6D090D24859635004BC1FD /* Classes */,
+				E5D451F4244F84CF00D66184 /* GoogleService-Info.plist */,
+				E5BB1BAE244F802A00A7AF7A /* Runner.entitlements */,
+				97C146FA1CF9000F007C117D /* Main.storyboard */,
+				97C146FD1CF9000F007C117D /* Assets.xcassets */,
+				97C146FF1CF9000F007C117D /* LaunchScreen.storyboard */,
+				97C147021CF9000F007C117D /* Info.plist */,
+				97C146F11CF9000F007C117D /* Supporting Files */,
+				1498D2321E8E86230040F4C2 /* GeneratedPluginRegistrant.h */,
+				1498D2331E8E89220040F4C2 /* GeneratedPluginRegistrant.m */,
+				74858FAE1ED2DC5600515810 /* AppDelegate.swift */,
+				728681EE24D49774007405D0 /* ExtendedFlutterViewController.swift */,
+				74858FAD1ED2DC5600515810 /* Runner-Bridging-Header.h */,
+				AEC1BF602487D0810005D295 /* Logging.swift */,
+				AE58D2502490105600618CCD /* AuthorizationManager.swift */,
+				AE58D2522490145000618CCD /* AuthorizationManaging.swift */,
+			);
+			path = Runner;
+			sourceTree = "<group>";
+		};
+		97C146F11CF9000F007C117D /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		9C8AC677F5275AF0F9F38CAB /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				448805197B7FEF3905E39C36 /* Pods-Runner.debug.xcconfig */,
+				833BA9EDA07143745249E6FA /* Pods-Runner.release.xcconfig */,
+				E395D29F7EC048AE68A1172C /* Pods-Runner.profile.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		AE0C6A6324A618A4001B4C64 /* libsodium-ios */ = {
+			isa = PBXGroup;
+			children = (
+				AE0C6A6424A618A4001B4C64 /* include */,
+				AE0C6AA224A618A4001B4C64 /* lib */,
+			);
+			path = "libsodium-ios";
+			sourceTree = "<group>";
+		};
+		AE0C6A6424A618A4001B4C64 /* include */ = {
+			isa = PBXGroup;
+			children = (
+				AE0C6A6524A618A4001B4C64 /* sodium */,
+			);
+			path = include;
+			sourceTree = "<group>";
+		};
+		AE0C6A6524A618A4001B4C64 /* sodium */ = {
+			isa = PBXGroup;
+			children = (
+				AE0C6A6624A618A4001B4C64 /* crypto_stream_salsa2012.h */,
+				AE0C6A6724A618A4001B4C64 /* crypto_auth.h */,
+				AE0C6A6824A618A4001B4C64 /* utils.h */,
+				AE0C6A6924A618A4001B4C64 /* crypto_core_hchacha20.h */,
+				AE0C6A6A24A618A4001B4C64 /* crypto_hash_sha512.h */,
+				AE0C6A6B24A618A4001B4C64 /* core.h */,
+				AE0C6A6C24A618A4001B4C64 /* version.h */,
+				AE0C6A6D24A618A4001B4C64 /* export.h */,
+				AE0C6A6E24A618A4001B4C64 /* randombytes_salsa20_random.h */,
+				AE0C6A6F24A618A4001B4C64 /* crypto_core_salsa20.h */,
+				AE0C6A7024A618A4001B4C64 /* crypto_shorthash_siphash24.h */,
+				AE0C6A7124A618A4001B4C64 /* randombytes.h */,
+				AE0C6A7224A618A4001B4C64 /* crypto_hash_sha256.h */,
+				AE0C6A7324A618A4001B4C64 /* crypto_stream.h */,
+				AE0C6A7424A618A4001B4C64 /* crypto_auth_hmacsha512.h */,
+				AE0C6A7524A618A4001B4C64 /* crypto_aead_xchacha20poly1305.h */,
+				AE0C6A7624A618A4001B4C64 /* crypto_stream_salsa20.h */,
+				AE0C6A7724A618A4001B4C64 /* crypto_onetimeauth_poly1305.h */,
+				AE0C6A7824A618A4001B4C64 /* crypto_kx.h */,
+				AE0C6A7924A618A4001B4C64 /* crypto_hash.h */,
+				AE0C6A7A24A618A4001B4C64 /* crypto_sign.h */,
+				AE0C6A7B24A618A4001B4C64 /* crypto_kdf.h */,
+				AE0C6A7C24A618A4001B4C64 /* crypto_auth_hmacsha256.h */,
+				AE0C6A7D24A618A4001B4C64 /* crypto_box.h */,
+				AE0C6A7E24A618A4001B4C64 /* crypto_verify_32.h */,
+				AE0C6A7F24A618A4001B4C64 /* crypto_stream_xchacha20.h */,
+				AE0C6A8024A618A4001B4C64 /* crypto_core_salsa208.h */,
+				AE0C6A8124A618A4001B4C64 /* crypto_auth_hmacsha512256.h */,
+				AE0C6A8224A618A4001B4C64 /* crypto_aead_chacha20poly1305.h */,
+				AE0C6A8324A618A4001B4C64 /* randombytes_sysrandom.h */,
+				AE0C6A8424A618A4001B4C64 /* runtime.h */,
+				AE0C6A8524A618A4001B4C64 /* crypto_stream_salsa208.h */,
+				AE0C6A8624A618A4001B4C64 /* crypto_aead_aes256gcm.h */,
+				AE0C6A8724A618A4001B4C64 /* crypto_core_salsa2012.h */,
+				AE0C6A8824A618A4001B4C64 /* crypto_secretbox_xchacha20poly1305.h */,
+				AE0C6A8924A618A4001B4C64 /* crypto_scalarmult.h */,
+				AE0C6A8A24A618A4001B4C64 /* crypto_pwhash.h */,
+				AE0C6A8B24A618A4001B4C64 /* crypto_verify_16.h */,
+				AE0C6A8C24A618A4001B4C64 /* crypto_stream_chacha20.h */,
+				AE0C6A8D24A618A4001B4C64 /* crypto_stream_xsalsa20.h */,
+				AE0C6A8E24A618A4001B4C64 /* crypto_core_hsalsa20.h */,
+				AE0C6A8F24A618A4001B4C64 /* crypto_kdf_blake2b.h */,
+				AE0C6A9024A618A4001B4C64 /* crypto_scalarmult_curve25519.h */,
+				AE0C6A9124A618A4001B4C64 /* crypto_shorthash.h */,
+				AE0C6A9224A618A4001B4C64 /* crypto_pwhash_argon2id.h */,
+				AE0C6A9324A618A4001B4C64 /* crypto_secretstream_xchacha20poly1305.h */,
+				AE0C6A9424A618A4001B4C64 /* crypto_pwhash_scryptsalsa208sha256.h */,
+				AE0C6A9524A618A4001B4C64 /* crypto_sign_ed25519.h */,
+				AE0C6A9624A618A4001B4C64 /* crypto_onetimeauth.h */,
+				AE0C6A9724A618A4001B4C64 /* crypto_verify_64.h */,
+				AE0C6A9824A618A4001B4C64 /* crypto_box_curve25519xchacha20poly1305.h */,
+				AE0C6A9924A618A4001B4C64 /* crypto_core_ed25519.h */,
+				AE0C6A9A24A618A4001B4C64 /* crypto_pwhash_argon2i.h */,
+				AE0C6A9B24A618A4001B4C64 /* crypto_generichash.h */,
+				AE0C6A9C24A618A4001B4C64 /* crypto_secretbox_xsalsa20poly1305.h */,
+				AE0C6A9D24A618A4001B4C64 /* crypto_secretbox.h */,
+				AE0C6A9E24A618A4001B4C64 /* crypto_scalarmult_ed25519.h */,
+				AE0C6A9F24A618A4001B4C64 /* crypto_box_curve25519xsalsa20poly1305.h */,
+				AE0C6AA024A618A4001B4C64 /* crypto_generichash_blake2b.h */,
+				AE0C6AA124A618A4001B4C64 /* crypto_sign_edwards25519sha512batch.h */,
+			);
+			path = sodium;
+			sourceTree = "<group>";
+		};
+		AE0C6AA224A618A4001B4C64 /* lib */ = {
+			isa = PBXGroup;
+			children = (
+				AE0C6AA524A6195D001B4C64 /* libsodium.a */,
+			);
+			path = lib;
+			sourceTree = "<group>";
+		};
+		AE6D090D24859635004BC1FD /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				72FA6A4124D1C2D00090D8F5 /* Encounters Events */,
+				724D67D224D0591F009EA68D /* Ble */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		97C146ED1CF9000F007C117D /* Runner */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 97C147051CF9000F007C117D /* Build configuration list for PBXNativeTarget "Runner" */;
+			buildPhases = (
+				D8857767FD6BFE33EBF0F126 /* [CP] Check Pods Manifest.lock */,
+				9740EEB61CF901F6004384FC /* Run Script */,
+				97C146EA1CF9000F007C117D /* Sources */,
+				97C146EB1CF9000F007C117D /* Frameworks */,
+				97C146EC1CF9000F007C117D /* Resources */,
+				9705A1C41CF9048500538489 /* Embed Frameworks */,
+				3B06AD1E1E4923F5004D2608 /* Thin Binary */,
+				73084482BEDA9D0D033A83F7 /* [CP] Embed Pods Frameworks */,
+				155EF3BD81DD950382A61BB8 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Runner;
+			packageProductDependencies = (
+				AEA53FF724A63EBB00E331E3 /* CryptoSwift */,
+			);
+			productName = Runner;
+			productReference = 97C146EE1CF9000F007C117D /* Runner.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		97C146E61CF9000F007C117D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1020;
+				ORGANIZATIONNAME = "The Chromium Authors";
+				TargetAttributes = {
+					97C146ED1CF9000F007C117D = {
+						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = G3ZBR57ZQQ;
+						LastSwiftMigration = 1100;
+					};
+				};
+			};
+			buildConfigurationList = 97C146E91CF9000F007C117D /* Build configuration list for PBXProject "Runner" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				"fr-CA",
+			);
+			mainGroup = 97C146E51CF9000F007C117D;
+			packageReferences = (
+				AEA53FF624A63EBB00E331E3 /* XCRemoteSwiftPackageReference "CryptoSwift" */,
+			);
+			productRefGroup = 97C146EF1CF9000F007C117D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				97C146ED1CF9000F007C117D /* Runner */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		97C146EC1CF9000F007C117D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				97C147011CF9000F007C117D /* LaunchScreen.storyboard in Resources */,
+				3B3967161E833CAA004F5970 /* AppFrameworkInfo.plist in Resources */,
+				E5D451F5244F84CF00D66184 /* GoogleService-Info.plist in Resources */,
+				97C146FE1CF9000F007C117D /* Assets.xcassets in Resources */,
+				97C146FC1CF9000F007C117D /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		155EF3BD81DD950382A61BB8 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		3B06AD1E1E4923F5004D2608 /* Thin Binary */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Thin Binary";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "/bin/sh \"$FLUTTER_ROOT/packages/flutter_tools/bin/xcode_backend.sh\" embed\n/bin/sh \"$FLUTTER_ROOT/packages/flutter_tools/bin/xcode_backend.sh\" thin\n";
+		};
+		73084482BEDA9D0D033A83F7 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9740EEB61CF901F6004384FC /* Run Script */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Run Script";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "/bin/sh \"$FLUTTER_ROOT/packages/flutter_tools/bin/xcode_backend.sh\" build";
+		};
+		D8857767FD6BFE33EBF0F126 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Runner-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		97C146EA1CF9000F007C117D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AEC1BF612487D0810005D295 /* Logging.swift in Sources */,
+				74858FAF1ED2DC5600515810 /* AppDelegate.swift in Sources */,
+				AE58D2532490145000618CCD /* AuthorizationManaging.swift in Sources */,
+				1498D2341E8E89220040F4C2 /* GeneratedPluginRegistrant.m in Sources */,
+				728681EF24D49774007405D0 /* ExtendedFlutterViewController.swift in Sources */,
+				7213898924D09C1A00F86B82 /* BTLEListener.swift in Sources */,
+				AE58D2512490105600618CCD /* AuthorizationManager.swift in Sources */,
+				72FA6A3C24D1BD3D0090D8F5 /* BluetoothStateObserver.swift in Sources */,
+				7213898B24D0A0D700F86B82 /* BTLEBroadcaster.swift in Sources */,
+				72FA6A4024D1C14E0090D8F5 /* EncounterEventRepository.swift in Sources */,
+				724D67D424D05943009EA68D /* Ble.swift in Sources */,
+				AEC1BF5D2486FCA80005D295 /* PlistPersister.swift in Sources */,
+				72FA6A4324D1C2FB0090D8F5 /* EncounterEvent.swift in Sources */,
+				72FA6A3A24D1BAFD0090D8F5 /* CoreBluetoothExtensions.swift in Sources */,
+				72FA6A4524D1CB0D0090D8F5 /* BroadcastPayload.swift in Sources */,
+				724D67DB24D08810009EA68D /* BluetoothNursery.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		97C146FA1CF9000F007C117D /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				97C146FB1CF9000F007C117D /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		97C146FF1CF9000F007C117D /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				97C147001CF9000F007C117D /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		249021D3217E4FDB00AE95B9 /* Profile */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7AFA3C8E1D35360C0083082E /* Release.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Profile;
+		};
+		249021D4217E4FDB00AE95B9 /* Profile */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7AFA3C8E1D35360C0083082E /* Release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = Runner/Runner.entitlements;
+				CURRENT_PROJECT_VERSION = 1.0.0;
+				DEVELOPMENT_TEAM = G3ZBR57ZQQ;
+				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+					"$(PROJECT_DIR)",
+				);
+				MARKETING_VERSION = 1.5.6;
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-ObjC",
+					"-l\"c++\"",
+					"-l\"sqlite3\"",
+					"-l\"z\"",
+					"-framework",
+					"\"AVFoundation\"",
+					"-framework",
+					"\"Accelerate\"",
+					"-framework",
+					"\"AddressBook\"",
+					"-framework",
+					"\"AudioToolbox\"",
+					"-framework",
+					"\"CoreBluetooth\"",
+					"-framework",
+					"\"CoreData\"",
+					"-framework",
+					"\"CoreGraphics\"",
+					"-framework",
+					"\"CoreImage\"",
+					"-framework",
+					"\"CoreLocation\"",
+					"-framework",
+					"\"CoreMedia\"",
+					"-framework",
+					"\"CoreTelephony\"",
+					"-framework",
+					"\"CoreText\"",
+					"-framework",
+					"\"FMDB\"",
+					"-framework",
+					"\"Flutter\"",
+					"-framework",
+					"\"GLKit\"",
+					"-framework",
+					"\"GoogleMaps\"",
+					"-framework",
+					"\"GoogleMapsBase\"",
+					"-framework",
+					"\"GoogleMapsCore\"",
+					"-framework",
+					"\"ImageIO\"",
+					"-framework",
+					"\"MediaPlayer\"",
+					"-framework",
+					"\"Metal\"",
+					"-framework",
+					"\"OpenGLES\"",
+					"-framework",
+					"\"QuartzCore\"",
+					"-framework",
+					"\"Reachability\"",
+					"-framework",
+					"\"Security\"",
+					"-framework",
+					"\"SystemConfiguration\"",
+					"-framework",
+					"\"UIKit\"",
+					"-framework",
+					"\"device_info\"",
+					"-framework",
+					"\"file_picker\"",
+					"-framework",
+					"\"flutter_local_notifications\"",
+					"-framework",
+					"\"flutter_plugin_android_lifecycle\"",
+					"-framework",
+					"\"geolocator\"",
+					"-framework",
+					"\"google_api_availability\"",
+					"-framework",
+					"\"google_maps_flutter\"",
+					"-framework",
+					"\"location_permissions\"",
+					"-framework",
+					"\"package_info\"",
+					"-framework",
+					"\"path_provider\"",
+					"-framework",
+					"\"permission_handler\"",
+					"-framework",
+					"\"sensors\"",
+					"-framework",
+					"\"share\"",
+					"-framework",
+					"\"shared_preferences\"",
+					"-framework",
+					"\"sqflite\"",
+					"-framework",
+					"\"url_launcher\"",
+					"$(inherited)",
+					"-framework",
+					Flutter,
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -D COCOAPODS -D PROFILE";
+				PRODUCT_BUNDLE_IDENTIFIER = com.covi.app;
+				PRODUCT_NAME = Runner;
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+				VERSIONING_SYSTEM = "apple-generic";
+			};
+			name = Profile;
+		};
+		97C147031CF9000F007C117D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9740EEB21CF90195004384FC /* Debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		97C147041CF9000F007C117D /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7AFA3C8E1D35360C0083082E /* Release.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		97C147061CF9000F007C117D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9740EEB21CF90195004384FC /* Debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = Runner/Runner.entitlements;
+				CURRENT_PROJECT_VERSION = 1.0.0;
+				DEVELOPMENT_TEAM = G3ZBR57ZQQ;
+				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+					"$(PROJECT_DIR)",
+				);
+				MARKETING_VERSION = 1.5.6;
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-ObjC",
+					"-l\"c++\"",
+					"-l\"sqlite3\"",
+					"-l\"z\"",
+					"-framework",
+					"\"AVFoundation\"",
+					"-framework",
+					"\"Accelerate\"",
+					"-framework",
+					"\"AddressBook\"",
+					"-framework",
+					"\"AudioToolbox\"",
+					"-framework",
+					"\"CoreBluetooth\"",
+					"-framework",
+					"\"CoreData\"",
+					"-framework",
+					"\"CoreGraphics\"",
+					"-framework",
+					"\"CoreImage\"",
+					"-framework",
+					"\"CoreLocation\"",
+					"-framework",
+					"\"CoreMedia\"",
+					"-framework",
+					"\"CoreTelephony\"",
+					"-framework",
+					"\"CoreText\"",
+					"-framework",
+					"\"FMDB\"",
+					"-framework",
+					"\"Flutter\"",
+					"-framework",
+					"\"GLKit\"",
+					"-framework",
+					"\"GoogleMaps\"",
+					"-framework",
+					"\"GoogleMapsBase\"",
+					"-framework",
+					"\"GoogleMapsCore\"",
+					"-framework",
+					"\"ImageIO\"",
+					"-framework",
+					"\"MediaPlayer\"",
+					"-framework",
+					"\"Metal\"",
+					"-framework",
+					"\"OpenGLES\"",
+					"-framework",
+					"\"QuartzCore\"",
+					"-framework",
+					"\"Reachability\"",
+					"-framework",
+					"\"Security\"",
+					"-framework",
+					"\"SystemConfiguration\"",
+					"-framework",
+					"\"UIKit\"",
+					"-framework",
+					"\"device_info\"",
+					"-framework",
+					"\"file_picker\"",
+					"-framework",
+					"\"flutter_local_notifications\"",
+					"-framework",
+					"\"flutter_plugin_android_lifecycle\"",
+					"-framework",
+					"\"geolocator\"",
+					"-framework",
+					"\"google_api_availability\"",
+					"-framework",
+					"\"google_maps_flutter\"",
+					"-framework",
+					"\"location_permissions\"",
+					"-framework",
+					"\"package_info\"",
+					"-framework",
+					"\"path_provider\"",
+					"-framework",
+					"\"permission_handler\"",
+					"-framework",
+					"\"sensors\"",
+					"-framework",
+					"\"share\"",
+					"-framework",
+					"\"shared_preferences\"",
+					"-framework",
+					"\"sqflite\"",
+					"-framework",
+					"\"url_launcher\"",
+					"$(inherited)",
+					"-framework",
+					Flutter,
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -D COCOAPODS -D DEBUG";
+				PRODUCT_BUNDLE_IDENTIFIER = com.covi.app;
+				PRODUCT_NAME = Runner;
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+				VERSIONING_SYSTEM = "apple-generic";
+			};
+			name = Debug;
+		};
+		97C147071CF9000F007C117D /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7AFA3C8E1D35360C0083082E /* Release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = Runner/Runner.entitlements;
+				CURRENT_PROJECT_VERSION = 1.0.0;
+				DEVELOPMENT_TEAM = G3ZBR57ZQQ;
+				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+				);
+				INFOPLIST_FILE = Runner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter",
+					"$(PROJECT_DIR)",
+				);
+				MARKETING_VERSION = 1.5.6;
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-ObjC",
+					"-l\"c++\"",
+					"-l\"sqlite3\"",
+					"-l\"z\"",
+					"-framework",
+					"\"AVFoundation\"",
+					"-framework",
+					"\"Accelerate\"",
+					"-framework",
+					"\"AddressBook\"",
+					"-framework",
+					"\"AudioToolbox\"",
+					"-framework",
+					"\"CoreBluetooth\"",
+					"-framework",
+					"\"CoreData\"",
+					"-framework",
+					"\"CoreGraphics\"",
+					"-framework",
+					"\"CoreImage\"",
+					"-framework",
+					"\"CoreLocation\"",
+					"-framework",
+					"\"CoreMedia\"",
+					"-framework",
+					"\"CoreTelephony\"",
+					"-framework",
+					"\"CoreText\"",
+					"-framework",
+					"\"FMDB\"",
+					"-framework",
+					"\"Flutter\"",
+					"-framework",
+					"\"GLKit\"",
+					"-framework",
+					"\"GoogleMaps\"",
+					"-framework",
+					"\"GoogleMapsBase\"",
+					"-framework",
+					"\"GoogleMapsCore\"",
+					"-framework",
+					"\"ImageIO\"",
+					"-framework",
+					"\"MediaPlayer\"",
+					"-framework",
+					"\"Metal\"",
+					"-framework",
+					"\"OpenGLES\"",
+					"-framework",
+					"\"QuartzCore\"",
+					"-framework",
+					"\"Reachability\"",
+					"-framework",
+					"\"Security\"",
+					"-framework",
+					"\"SystemConfiguration\"",
+					"-framework",
+					"\"UIKit\"",
+					"-framework",
+					"\"device_info\"",
+					"-framework",
+					"\"file_picker\"",
+					"-framework",
+					"\"flutter_local_notifications\"",
+					"-framework",
+					"\"flutter_plugin_android_lifecycle\"",
+					"-framework",
+					"\"geolocator\"",
+					"-framework",
+					"\"google_api_availability\"",
+					"-framework",
+					"\"google_maps_flutter\"",
+					"-framework",
+					"\"location_permissions\"",
+					"-framework",
+					"\"package_info\"",
+					"-framework",
+					"\"path_provider\"",
+					"-framework",
+					"\"permission_handler\"",
+					"-framework",
+					"\"sensors\"",
+					"-framework",
+					"\"share\"",
+					"-framework",
+					"\"shared_preferences\"",
+					"-framework",
+					"\"sqflite\"",
+					"-framework",
+					"\"url_launcher\"",
+					"$(inherited)",
+					"-framework",
+					Flutter,
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -D COCOAPODS -D RELEASE";
+				PRODUCT_BUNDLE_IDENTIFIER = com.covi.app;
+				PRODUCT_NAME = Runner;
+				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+				VERSIONING_SYSTEM = "apple-generic";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		97C146E91CF9000F007C117D /* Build configuration list for PBXProject "Runner" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				97C147031CF9000F007C117D /* Debug */,
+				97C147041CF9000F007C117D /* Release */,
+				249021D3217E4FDB00AE95B9 /* Profile */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		97C147051CF9000F007C117D /* Build configuration list for PBXNativeTarget "Runner" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				97C147061CF9000F007C117D /* Debug */,
+				97C147071CF9000F007C117D /* Release */,
+				249021D4217E4FDB00AE95B9 /* Profile */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		AEA53FF624A63EBB00E331E3 /* XCRemoteSwiftPackageReference "CryptoSwift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/krzyzanowskim/CryptoSwift.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.3.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		AEA53FF724A63EBB00E331E3 /* CryptoSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = AEA53FF624A63EBB00E331E3 /* XCRemoteSwiftPackageReference "CryptoSwift" */;
+			productName = CryptoSwift;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 97C146E61CF9000F007C117D /* Project object */;
+}

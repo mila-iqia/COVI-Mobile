@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "857885841359",
+    "firebase_url": "https://covi-app-274917.firebaseio.com",
+    "project_id": "covi-app-274917",
+    "storage_bucket": "covi-app-274917.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857885841359:android:300be82a7d225cc28ae4ba",
+        "android_client_info": {
+          "package_name": "com.covi.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857885841359-ssvrcr4cl14iano80qieb6oksfkr0fqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV-eq5HfWRIGSqohUKFDWipbtc5LUzNKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857885841359-ssvrcr4cl14iano80qieb6oksfkr0fqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
